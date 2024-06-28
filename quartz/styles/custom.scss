@@ -15,9 +15,9 @@ body {
 
 
 #texture {
-  position: absolute;
-  height: unset;
-  width: unset;
+  position: fixed;
+  height: 100%;
+  width: 100%;
   background-image: url("https://www.transparenttextures.com/patterns/cream-paper.png");
   mix-blend-mode: normal;
   pointer-events: none;
