@@ -29,7 +29,7 @@ body {
   
 }
 
-[saved-theme="dark"] body[data-slug="index"] img[src*="3.svg"] {
+[saved-theme="dark"] body[data-slug="index"] img[src*="banner.svg"] {
   filter: invert(100%);
 }
 
@@ -114,11 +114,13 @@ pre.poetry {
   border: none;
   padding: 0;
   position: unset;
+  font-size: 1.33rem;
 }
 
 .meta,
 .content-meta {
   font-family: biro_script_standardRgus, var(--bodyFont);
+  font-size: 0.99rem;
 }
 
 

@@ -3,7 +3,7 @@ details#toc {
     cursor: pointer;
 
     &::marker {
-      color: var(--dark);
+      color: var(--lightgray);
     }
 
     & > * {
@@ -19,7 +19,7 @@ details#toc {
     padding: 0;
   }
 
-  @for $i from 1 through 6 {
+  @for $i from 1 through 10 {
     & .depth-#{$i} {
       padding-left: calc(1rem * #{$i});
     }

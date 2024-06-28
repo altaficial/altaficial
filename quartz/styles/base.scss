@@ -17,16 +17,17 @@ section {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+  font-size: 1.11rem;
 }
 
 .text-highlight {
-  background-color: #3a388973;
+  background-color: #0d0c1d93;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(125, 53, 53, 0));
+  background: color-mix(in srgb, var(--tertiary) 60%, rgba(164, 72, 72, 0));
   color: var(--darkgray);
 }
 
@@ -120,7 +121,7 @@ a {
 
   & article {
     & > h1 {
-      font-size: 2rem;
+      font-size: 3rem;
     }
 
     & li:has(> input[type="checkbox"]) {
