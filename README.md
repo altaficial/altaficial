@@ -1,18 +1,17 @@
+---
+created: 2024-06-28 21:06
+updated: 2024-06-28 21:06
+---
 # Quartz v4
+
+Quartz is a static-site generator that is fast, batteries-included, and transforms Markdown content into fully functional websites. It has features like Obsidian compatibility, full-text search, graph view, note transclusion, wikilinks, backlinks, Latex, syntax highlighting, popover previews, Docker Support, and internationalization.
+
+Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🔗 Get Started: [https://quartz.jzhao.xyz/](https://quartz.jzhao.xyz/)
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Thank you [jzhao.xyz](https://quartz.jzhao.xyz/) and [mwalton.me](https://mwalton.me/) for the site inspo! 

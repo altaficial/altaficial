@@ -20,13 +20,13 @@ section {
 }
 
 .text-highlight {
-  background-color: #fff23688;
+  background-color: #2b27a288;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
+  background: color-mix(in srgb, var(--tertiary) 60%, rgba(125, 53, 53, 0));
   color: var(--darkgray);
 }
 
@@ -43,11 +43,12 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
   hyphens: auto;
 }
 
 .math {
+  font-size: 1rem;
   &.math-display {
     text-align: center;
   }
@@ -88,7 +89,7 @@ a {
 
   &.external .external-icon {
     height: 1ex;
-    margin: 0 0.15em;
+    margin: 0 0.2em;
 
     > path {
       fill: var(--dark);
@@ -481,13 +482,9 @@ video {
   flex: 1 1 auto;
 }
 
-div:has(> .overflow) {
-  position: relative;
-}
-
 ul.overflow,
 ol.overflow {
-  max-height: 400;
+  max-height: 350px;
   overflow-y: auto;
 
   // clearfix
