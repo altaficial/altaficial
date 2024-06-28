@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28 16:06
-updated: 2024-06-29 04:06
+updated: 2024-06-29 05:06
 title: I don’t want to have children, and stop telling me I’ll change my mind :D
 date: 2022-09-09
 ---
@@ -12,17 +12,12 @@ Having children is not life-affirming and is immoral. When I was pregnant I thin
 
 I wrote FAQs below, to give you some of my common arguments with people that want me to have children and give you answers /reasons why I don’t want to have children. 
 
-**this**
-	- this is the toggle
-	- omde
-	-tjpe
-	
+**<details markdown='1'>** <summary> **Just because we can't be 100% sure of the outcome doesn't mean we shouldn't have children!**</summary> 
 
-### Just because we can't be 100% sure of the outcome doesn't mean we shouldn't have children!
+Actually, it does. There are two problems with this. One, you're gambling with someone else's welfare, which is wrong. And two, it's incredibly glib. Extreme suffering is real and should be grappled with, not just conveniently hand-waved away. If your child ends up in a long-term suicidal nightmare of existence will you be content to say, “I’m sorry you’re in hell, but when I was rolling the dice I had a good feeling!" </details>
 
-Actually, it does. There are two problems with this. One, you're gambling with someone else's welfare, which is wrong. And two, it's incredibly glib. Extreme suffering is real and should be grappled with, not just conveniently hand-waved away. If your child ends up in a long-term suicidal nightmare of existence will you be content to say, “I’m sorry you’re in hell, but when I was rolling the dice I had a good feeling!"
 
-**Unborn children can't give their consent to being alive, therefore you don't need their consent!**
+**<details markdown='1'>** <summary> **Unborn children can't give their consent to being alive, therefore you don't need their consent!**</summary> 
 
 Consider the following thought experiment. Suppose hell was real and the inhabitants of hell were allowed to procreate, thus dooming young children to a hellish existence. Some of the inhabitants suggest that it's immoral to have children in hell, especially without their consent, but others point out that you don't need their consent because they can't give it until they're actually alive to give it. And after all, they say, isn't it better to be alive and in hell than non-existent anyway?
 
@@ -30,7 +25,8 @@ In response to the above scenario, most people tend to say it's not ok to reprod
 
 Just to be clear, the point is not that our world is equivalent to hell (at least for everyone). The point is that the argument that unborn children can't give consent so therefore we don't need their consent is fallacious.
 
-And, yes, it's true that most people wouldn't want children in hell, not because they can't consent, but because they think hell is a bad thing, period. But that doesn't mean consent isn't a factor. Suppose there were people who willingly decided to go to hell because they wanted to experience it, and they made an informed decision to go there. Would you support that? I think plenty of people would. Now suppose these same people decide to drag others to hell who didn't consent? Would you be against that? Most people would be. This demonstrates that it's not experiencing hell's inherent badness that people oppose, it's forcing others to do so without their consent. Consent is key.
+And, yes, it's true that most people wouldn't want children in hell, not because they can't consent, but because they think hell is a bad thing, period. But that doesn't mean consent isn't a factor. Suppose there were people who willingly decided to go to hell because they wanted to experience it, and they made an informed decision to go there. Would you support that? I think plenty of people would. Now suppose these same people decide to drag others to hell who didn't consent? Would you be against that? Most people would be. This demonstrates that it's not experiencing hell's inherent badness that people oppose, it's forcing others to do so without their consent. Consent is key. </details>
+
 
 **I’ve been through the worst and I'm still having kids! And you're arrogant to tell people they shouldn't have kids!**
 
