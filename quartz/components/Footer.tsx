@@ -15,15 +15,18 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
+          {" "}
+          </p>
         <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
+          <li>
+            <a rel="website" href="https://www.altaficial.com">
+            © {year} altaficial.com
+            </a>
+          </li>
+          <li>
+            Created with <a href="https://obsidian.md/">Obsidian</a> and{" "}
+            <a href="https://quartz.jzhao.xyz/">Quartz</a>
+          </li>
         </ul>
       </footer>
     )
