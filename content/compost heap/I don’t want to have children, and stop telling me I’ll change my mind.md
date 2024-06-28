@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28 16:06
-updated: 2024-06-28 16:06
+updated: 2024-06-29 04:06
 title: I don’t want to have children, and stop telling me I’ll change my mind :D
 date: 2022-09-09
 ---
@@ -12,11 +12,17 @@ Having children is not life-affirming and is immoral. When I was pregnant I thin
 
 I wrote FAQs below, to give you some of my common arguments with people that want me to have children and give you answers /reasons why I don’t want to have children. 
 
-### **Just because we can't be 100% sure of the outcome doesn't mean we shouldn't have children!**
+**this**
+	- this is the toggle
+	- omde
+	-tjpe
+	
+
+### Just because we can't be 100% sure of the outcome doesn't mean we shouldn't have children!
 
 Actually, it does. There are two problems with this. One, you're gambling with someone else's welfare, which is wrong. And two, it's incredibly glib. Extreme suffering is real and should be grappled with, not just conveniently hand-waved away. If your child ends up in a long-term suicidal nightmare of existence will you be content to say, “I’m sorry you’re in hell, but when I was rolling the dice I had a good feeling!"
 
-### **Unborn children can't give their consent to being alive, therefore you don't need their consent!**
+**Unborn children can't give their consent to being alive, therefore you don't need their consent!**
 
 Consider the following thought experiment. Suppose hell was real and the inhabitants of hell were allowed to procreate, thus dooming young children to a hellish existence. Some of the inhabitants suggest that it's immoral to have children in hell, especially without their consent, but others point out that you don't need their consent because they can't give it until they're actually alive to give it. And after all, they say, isn't it better to be alive and in hell than non-existent anyway?
 
@@ -26,7 +32,7 @@ Just to be clear, the point is not that our world is equivalent to hell (at leas
 
 And, yes, it's true that most people wouldn't want children in hell, not because they can't consent, but because they think hell is a bad thing, period. But that doesn't mean consent isn't a factor. Suppose there were people who willingly decided to go to hell because they wanted to experience it, and they made an informed decision to go there. Would you support that? I think plenty of people would. Now suppose these same people decide to drag others to hell who didn't consent? Would you be against that? Most people would be. This demonstrates that it's not experiencing hell's inherent badness that people oppose, it's forcing others to do so without their consent. Consent is key.
 
-### **I’ve been through the worst and I'm still having kids! And you're arrogant to tell people they shouldn't have kids!**
+**I’ve been through the worst and I'm still having kids! And you're arrogant to tell people they shouldn't have kids!**
 
 It's arrogant to make other people suffer just because you want kids. And it's arrogant for anyone to claim they have been through the worst. It's far more humble to assume that there are others out there who have it far worse than you or I have. Just because you have suffered and come to terms with it, doesn't mean that everyone else has or will. And just because you've suffered, it doesn't mean you have empathy for other people. There are plenty of drug-addicted prostitutes who have children even though they hate their own life because they think having children will make them happy. And not just addicts, but regular people. If you were truly content, why would you want children? Wanting is a form of desiring which is a form of suffering. Having children is a way of relieving YOUR suffering.
 
