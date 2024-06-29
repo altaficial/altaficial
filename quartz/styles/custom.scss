@@ -19,13 +19,14 @@ body {
   height: 100%;
   width: 100%;
   background-image: url("https://www.transparenttextures.com/patterns/cream-paper.png");
-  mix-blend-mode: normal;
+  mix-blend-mode: overlay;
   pointer-events: none;
 
 }
 
 [saved-theme="dark"] #texture {
-  mix-blend-mode: overlay;
+mix-blend-mode: normal;
+opacity: 13%;
   
 }
 
