@@ -18,10 +18,10 @@ export default ((opts?: Options) => {
           {" "}
           </p>
         <ul>
+          
           <li>
             <a rel="website" href="https://www.altaficial.com">
-            © {year} altaficial.com
-            </a>
+           altaficial.com · </a> © {year} · alta@altaficial.com 
           </li>
           <li>
             Created with <a href="https://obsidian.md/">Obsidian</a> and{" "}
