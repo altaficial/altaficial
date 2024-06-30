@@ -1,6 +1,6 @@
 ---
 created: 2024-06-12 17:06
-updated: 2024-06-30 12:06
+updated: 2024-07-01 07:07
 title: Decoding Immortality
 date: 2024-06-12
 ---
@@ -13,7 +13,8 @@ date: 2024-06-12
 
 But what ethical dilemmas arise from such advancements? What happens to the concept of mortality if we transcend it? As we stand on the cusp of this potentially revolutionary leap, one thing is certain: the implications will reverberate throughout society and redefine what it means to be human.
 
-## What if
+
+## What if fuck if only 
 
 This is to test table of contest 
 
@@ -27,33 +28,4 @@ sss
 
 ## 5 This is to test table of contest 
 
-## 6 This is to test table of contest 
-
-## 7 This is to test table of contest 
-
-## 8 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
-## 10 This is to test table of contest 
-
-## 10 This is to test table of contest 
+#
