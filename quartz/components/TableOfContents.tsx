@@ -30,11 +30,11 @@ const TableOfContents: QuartzComponent = ({
         <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="31"
-          height="31"
-          viewBox="0 0 31 31"
+          width="23"
+          height="23"
+          viewBox="0 0 23 23"
           fill="none"
-          stroke="currentColor"
+          stroke="black"
           stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
