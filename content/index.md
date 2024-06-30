@@ -1,7 +1,7 @@
 ---
 title: Alta
 created: 2024-06-28 23:06
-updated: 2024-06-30 10:06
+updated: 2024-06-30 11:06
 tags:
   - evergreen
 ---
@@ -17,6 +17,10 @@ Welcome to my tiny corner on the internet, a personal space on the World Wide We
 
 
 My daydream lately is trying to figure out how to crack the human brain to make learning as irresistible as scrolling through Instagram and as easy as binge-watching your favorite shows.
+
+- [[I don’t want to have children, and stop telling me I’ll change my mind | this is]]
+- 
+
 
 ```poetry
 - alta :)

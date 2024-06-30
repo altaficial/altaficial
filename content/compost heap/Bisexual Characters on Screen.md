@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28 16:06
-updated: 2024-06-28 16:06
+updated: 2024-06-30 10:06
 title: Bisexual Characters On Screen
 date: 2024-06-11
 ---
@@ -13,3 +13,7 @@ date: 2024-06-11
 
 How do these portrayals challenge or reinforce societal perceptions of bisexuality? Do they offer a deeper understanding of the bisexual experience, or do they merely use it as a plot device? Are these characters ultimately empowering or problematic representations of the LGBTQ+ community?
 
+[[I don’t want to have children, and stop telling me I’ll change my mind]]
+[[Villanelle]]
+
+[[Killing Eve]]
