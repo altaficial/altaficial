@@ -17,11 +17,13 @@ section {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
-  font-size: 1.11rem;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  font-weight: lighter;
 }
 
 .text-highlight {
-  background-color: #0d0c1d93;
+  background-color: var(--highlight);
   padding: 0 0.1rem;
   border-radius: 5px;
 }
@@ -56,7 +58,8 @@ ul,
 }
 
 strong {
-  font-weight: $semiBoldWeight;
+  font-weight: bolder 700;
+  color: var(--bolder) !important;
 }
 
 a {
@@ -480,7 +483,7 @@ video {
 }
 
 .spacer {
-  flex: 1 1 auto;
+  flex: auto;
 }
 
 ul.overflow,

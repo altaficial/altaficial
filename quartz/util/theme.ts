@@ -5,6 +5,7 @@ export interface ColorScheme {
   darkgray: string
   dark: string
   secondary: string
+  bolder: string
   tertiary: string
   highlight: string
 }
