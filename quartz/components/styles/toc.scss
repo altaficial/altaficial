@@ -3,10 +3,10 @@ button#toc {
   border: none;
   text-align: left;
   cursor: pointer;
-  padding: 0;
+  padding: 1;
   color: var(--dark);
   display: flex;
-  align-items: center;
+  align-items: left;
 
   & h3 {
     font-size: 1rem;
@@ -26,7 +26,8 @@ button#toc {
 }
 
 #toc-content {
-  list-style: none;
+  list-style: inside;
+  text-decoration: underline;
   overflow: hidden;
   max-height: none;
   transition: max-height 0.5s ease;
@@ -37,15 +38,15 @@ button#toc {
   }
 
   & ul {
-    list-style: none;
+    font-size: 0.81rem;
     margin: 0.5rem 0;
-    padding: 0;
+    padding: 1;
     & > li > a {
       color: var(--dark);
-      opacity: 0.35;
+      opacity: 0.31;
       transition:
-        0.5s ease opacity,
-        0.3s ease color;
+        0.1s ease opacity,
+        0.1s ease color;
       &.in-view {
         opacity: 0.75;
       }
