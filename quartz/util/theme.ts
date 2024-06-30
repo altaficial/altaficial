@@ -49,6 +49,7 @@ ${stylesheet.join("\n\n")}
   --dark: ${theme.colors.lightMode.dark};
   --secondary: ${theme.colors.lightMode.secondary};
   --tertiary: ${theme.colors.lightMode.tertiary};
+  --bolder: ${theme.colors.lightMode.bolder};
   --highlight: ${theme.colors.lightMode.highlight};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
@@ -64,6 +65,7 @@ ${stylesheet.join("\n\n")}
   --dark: ${theme.colors.darkMode.dark};
   --secondary: ${theme.colors.darkMode.secondary};
   --tertiary: ${theme.colors.darkMode.tertiary};
+  --bolder: ${theme.colors.darkMode.bolder};
   --highlight: ${theme.colors.darkMode.highlight};
 }
 `
