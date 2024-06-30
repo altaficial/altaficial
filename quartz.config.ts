@@ -34,9 +34,8 @@ const config: QuartzConfig = {
           darkgray: "#000000",
           dark: "#000000",
           secondary: "#000000",
-          tertiary: "#333333",
-          bolder: "#000000",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          tertiary: "#B2B0AE",
+          highlight: "rgba(99,190,255,0.51)",
         },
         darkMode: {
           light: "#121212",
@@ -46,8 +45,7 @@ const config: QuartzConfig = {
           dark: "#d3d3d3", /** backlink, header in text, graph color */
           secondary: "#d3d3d3", /** links, header 1/3 color */
           tertiary: "#B2B0AE", /** hover color */
-          bolder: "#e2bfff", /** bold text color */
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(99,129,255,0.36)",
         },
       },
     },

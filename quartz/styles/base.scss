@@ -29,7 +29,7 @@ section {
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(164, 72, 72, 0));
+  background: var(--highlight);
   color: var(--darkgray);
 }
 
@@ -59,7 +59,11 @@ ul,
 
 strong {
   font-weight: bolder 700;
-  color: var(--);
+  background: #5E52CF;
+  background: linear-gradient(to right, #e77373f7 13%, #8f9df5 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+
 }
 
 a {
