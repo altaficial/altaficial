@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Solway",
-        body: "gaegu",
+        header: "Merienda",
+        body: "Shantell Sans",
         code: "JetBrains Mono",
       },
       colors: {
@@ -35,16 +35,18 @@ const config: QuartzConfig = {
           dark: "#000000",
           secondary: "#000000",
           tertiary: "#333333",
+          bolder: "#000000",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#1a1a1a",
-          lightgray: "#464646",
-          gray: "#B2B0AE",
-          darkgray: "#B2B0AE",
-          dark: "#DADADA",
-          secondary: "#DADADA",
-          tertiary: "#B2B0AE",
+          light: "#121212",
+          lightgray: "#464646", /** search colum, graph border, pophover color */
+          gray: "#B2B0AE", /** date and mins color */
+          darkgray: "#B2B0AE", /** body/text color */
+          dark: "#d3d3d3", /** backlink, header in text, graph color */
+          secondary: "#d3d3d3", /** links, header 1/3 color */
+          tertiary: "#B2B0AE", /** hover color */
+          bolder: "#e2bfff", /** bold text color */
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
