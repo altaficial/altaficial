@@ -3,7 +3,7 @@ created: 2024-06-12 17:06
 updated: 2024-07-01 11:07
 title: Decoding Immortality
 date: 2024-06-12
-enableToc: "false"
+enableToc: "true"
 ---
 
 ## The Science, Ethics, and Perils of Eternal Life
@@ -29,4 +29,3 @@ sss
 
 ## 5 This is to test table of contest 
 
-#
