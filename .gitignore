@@ -10,4 +10,4 @@ private/
 .replit
 replit.nix
 00 Meta
-06 Core
+.gitignore
