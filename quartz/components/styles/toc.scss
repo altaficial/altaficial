@@ -26,8 +26,8 @@ button#toc {
 }
 
 #toc-content {
-  list-style: inside;
-  text-decoration: underline;
+  list-style: circle;
+  list-style-type: "\25B7";
   overflow: hidden;
   max-height: none;
   transition: max-height 0.5s ease;

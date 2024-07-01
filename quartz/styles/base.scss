@@ -17,8 +17,8 @@ section {
   background-color: none;
   font-family: var(--bodyFont);
   color: var(--darkgray);
-  font-size: 1rem;
-  letter-spacing: 0.5px;
+  font-size: 0.7rem;
+  letter-spacing: 0.6px;
   font-weight: lighter;
 }
 
@@ -61,7 +61,7 @@ strong {
   font-weight: bolder 700;
   background: #5E52CF;
   background: linear-gradient(to right, #e77373f7 13%, #8f9df5 100%);
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;  
 
 }
@@ -305,19 +305,19 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.3rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 0.8rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -325,7 +325,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: 0.7rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
