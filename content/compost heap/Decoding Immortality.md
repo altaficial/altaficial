@@ -1,8 +1,9 @@
 ---
 created: 2024-06-12 17:06
-updated: 2024-07-01 07:07
+updated: 2024-07-01 11:07
 title: Decoding Immortality
 date: 2024-06-12
+enableToc: "false"
 ---
 
 ## The Science, Ethics, and Perils of Eternal Life
