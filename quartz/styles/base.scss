@@ -17,7 +17,7 @@ section {
   background-color: none;
   font-family: var(--bodyFont);
   color: var(--darkgray);
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   letter-spacing: 0.6px;
   font-weight: lighter;
 }
@@ -128,7 +128,7 @@ a {
 
   & article {
     & > h1 {
-      font-size: 3rem;
+      font-size: 1.5rem;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -305,19 +305,19 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.3rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 0.8rem;
+  font-size: 1rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -325,7 +325,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
@@ -513,7 +513,7 @@ ol.overflow {
     bottom: 0;
     opacity: 1;
     transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
+    background: transparent;
   }
 }
 

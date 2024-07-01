@@ -21,7 +21,7 @@ export default ((opts?: Options) => {
           
           <li>
             <a rel="website" href="https://www.altaficial.com">
-           altaficial.com · </a> © {year} · alta@altaficial.com 
+           altaficial.com</a> · © {year} · alta@altaficial.com 
           </li>
           <li>
             Created with <a href="https://obsidian.md/">Obsidian</a> and{" "}

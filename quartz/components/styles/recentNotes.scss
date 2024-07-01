@@ -1,7 +1,11 @@
 .recent-notes {
   & > h3 {
     margin: 0.5rem 0 0 0;
-    font-size: 0.80rem;
+    font-size: 1.2rem;
+    background: #5E52CF;
+    background: linear-gradient(to right, #e77373f7 13%, #8f9df5 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;  
   }
 
   & > ul.recent-ul {
@@ -13,7 +17,7 @@
     & > li {
       margin: 1rem 0;
       .section > .desc > h3 > a {
-        font-size: 0.80rem;
+        font-size: 1rem;
         background-color: transparent;
       }
 
