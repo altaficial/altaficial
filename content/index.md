@@ -6,7 +6,7 @@ tags:
   - evergreen
 ---
 
-<img src=".altabanner.svg" width="1200px" height="450px">
+<img src=".altabanner.svg" width="600px" height="400px">
 
 ```poetry
 Welcome!
