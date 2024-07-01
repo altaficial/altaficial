@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
         title: "Mosaic",
         limit: 3,
         filter: (f) =>
-          f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+          f.slug!.startsWith("mosaic/") && f.slug! !== "mosaic/index" && !f.frontmatter?.noindex,
         linkToMore: "posts/" as SimpleSlug,
       }),
     ),

@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28 16:06
-updated: 2024-07-01 11:07
+updated: 2024-07-02 03:07
 title: Bisexual Characters On Screen
 date: 2024-06-11
 draft: "true"
@@ -13,6 +13,4 @@ draft: "true"
 **Thinking Out Loud:**
 
 How do these portrayals challenge or reinforce societal perceptions of bisexuality? Do they offer a deeper understanding of the bisexual experience, or do they merely use it as a plot device? Are these characters ultimately empowering or problematic representations of the LGBTQ+ community?
-
-[[Killing Eve]]
 

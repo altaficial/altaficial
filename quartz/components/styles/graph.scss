@@ -2,8 +2,9 @@
 
 .graph {
   & > h3 {
-    font-size: 1rem;
-    margin: 0;
+    font-size: 1.1rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
   }
 
   & > .graph-outer {
@@ -18,8 +19,8 @@
     & > #global-graph-icon {
       color: var(--dark);
       opacity: 0.5;
-      width: 18px;
-      height: 18px;
+      width: 15px;
+      height: 15px;
       position: absolute;
       padding: 0.2rem;
       margin: 0.3rem;

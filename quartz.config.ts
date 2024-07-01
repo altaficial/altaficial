@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "www.altaficial.com",
+    baseUrl: "www.craft.altaficial.com",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
