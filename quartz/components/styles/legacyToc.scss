@@ -1,9 +1,10 @@
+
 details#toc {
   & summary {
     cursor: pointer;
 
     &::marker {
-      color: var(--lightgray);
+      color: var(--secondary);
     }
 
     & > * {
@@ -15,9 +16,9 @@ details#toc {
 
   & ul {
     list-style: none;
-    list-style-type: circle;
-    margin: 0.5rem 1.25rem;
-    padding: 0;
+    list-style-type: "\25B7";
+    margin: 0.5rem 0.4rem;
+    padding: 0.3rem;
   }
 
   @for $i from 1 through 10 {
