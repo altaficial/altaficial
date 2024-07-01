@@ -12,7 +12,7 @@ interface Options {
 }
 
 const defaultOptions: Options = {
-  layout: "legacy",
+  layout: "modern",
 }
 
 const TableOfContents: QuartzComponent = ({
@@ -44,7 +44,7 @@ const TableOfContents: QuartzComponent = ({
         </svg>
       </button>
       <div id="toc-content">
-        <ul class="overflow">
+        <ul class="hidden">
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
               <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>

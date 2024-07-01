@@ -31,7 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Writing",
+        title: "Mosaic",
         limit: 3,
         filter: (f) =>
           f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Compost Heap",
-        limit: 5,
+        limit: 2,
         filter: (f) => f.slug!.startsWith("compost-heap/") && f.slug! !== "compost-heap/index" && !f.frontmatter?.noindex,
         linkToMore: "compost-heap/" as SimpleSlug,
       }),
