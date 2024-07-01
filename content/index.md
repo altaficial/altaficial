@@ -1,12 +1,12 @@
 ---
 title: Alta
 created: 2024-06-28 23:06
-updated: 2024-06-30 12:06
+updated: 2024-07-01 15:07
 tags:
   - evergreen
 ---
 
-<img src=".banner.svg" width="1200px" height="311px">
+<img src=".altabanner.svg" width="1200px" height="311px">
 
 ```poetry
 Welcome!
