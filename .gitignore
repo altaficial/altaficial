@@ -2,7 +2,6 @@
 .gitignore
 node_modules
 public
-prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
@@ -10,4 +9,3 @@ private/
 .replit
 replit.nix
 00 Meta
-.gitignore
