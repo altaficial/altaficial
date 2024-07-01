@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "www.altaficial.com",
-    ignorePatterns: ["private", "templates", "01 Timestamps"],
+    ignorePatterns: ["private", "templates", "01 Timestamps", "00 Meta"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
