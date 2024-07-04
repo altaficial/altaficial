@@ -3,8 +3,6 @@ created: 2024-06-28 16:06
 updated: 2024-07-04 16:07
 title: I don’t want to have children, and stop telling me I’ll change my mind :D
 date: 2022-09-09
-publish: "true"
-draft: "false"
 ---
 I wrote this at age 21 and had an abortion because I never wanted to have children. My mom always haunts me with talk of pregnancy, as she had me when she was young and had to give up her dreams for me. She didn't regret it but didn't want me to make the same sacrifice. When I was 15, I watched a show called 'The Fosters' and loved it so much that I decided I wanted to adopt children in the future rather than have my own. I used to teach art therapy for stateless and refugee children and felt a deep connection with them. I saw their potential but recognized the lack of resources to support them. I made a promise to myself that I would never bring innocent children into this cruel world and that I would adopt these exceptional, suffering children instead.
 
