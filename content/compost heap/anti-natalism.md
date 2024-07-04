@@ -2,8 +2,6 @@
 created: 2024-07-02 03:07
 updated: 2024-07-04 17:07
 title: Anti-Natalism
-publish: "true"
-draft: "false"
 tags:
   - seeds
 ---
