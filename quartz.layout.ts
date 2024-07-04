@@ -34,8 +34,8 @@ export const defaultContentPageLayout: PageLayout = {
         title: "Recent Footprint",
         limit: 3,
         filter: (f) =>
-          f.slug!.startsWith("compost-heap/") && f.slug! !== "compost-heap/" && !f.frontmatter?.noindex,
-        linkToMore: "compost-heap/" as SimpleSlug,
+          f.slug!.startsWith("Footprint/") && f.slug! !== "Footprint/index/" && !f.frontmatter?.noindex,
+        linkToMore: "Footprint/" as SimpleSlug,
       }),
     ),
     Component.DesktopOnly(
