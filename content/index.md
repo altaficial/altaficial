@@ -1,7 +1,7 @@
 ---
 title: Alta
 created: 2024-06-28 23:06
-updated: 2024-07-04 17:07
+updated: 2024-07-04 18:07
 tags:
   - evergreen
 ---
