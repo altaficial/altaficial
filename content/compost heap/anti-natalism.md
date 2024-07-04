@@ -1,9 +1,11 @@
 ---
 created: 2024-07-02 03:07
-updated: 2024-07-04 16:07
+updated: 2024-07-04 17:07
 title: Anti-Natalism
 publish: "true"
 draft: "false"
+tags:
+  - seeds
 ---
 Anti-natalism is a philosophical viewpoint that assigns a negative value to birth. It encompasses a range of views, from the belief that it is morally wrong to have children to the more extreme position that procreation should be discouraged or even prohibited.
 
