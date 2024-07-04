@@ -42,8 +42,8 @@ export const defaultContentPageLayout: PageLayout = {
       Component.RecentNotes({
         title: "Compost Heap",
         limit: 2,
-        filter: (f) => f.slug!.startsWith("Compost-Heap/") && f.slug! !== "Compost-Heap/index" && !f.frontmatter?.noindex,
-        linkToMore: "Compost-Heap/" as SimpleSlug,
+        filter: (f) => f.slug!.startsWith("compost-heap/") && f.slug! !== "compost-heap/index" && !f.frontmatter?.noindex,
+        linkToMore: "compost-heap/" as SimpleSlug,
       }),
     ),
     Component.DesktopOnly(Component.TableOfContents()),
