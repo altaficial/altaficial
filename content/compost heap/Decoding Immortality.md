@@ -1,11 +1,11 @@
 ---
 created: 2024-06-12 17:06
-updated: 2024-07-04 16:07
+updated: 2024-07-04 17:07
 title: Decoding Immortality
 date: 2024-06-12
 enableToc: "true"
 tags:
-  - seeds
+  - "#lakeside"
 ---
 
 ## The Science, Ethics, and Perils of Eternal Life
