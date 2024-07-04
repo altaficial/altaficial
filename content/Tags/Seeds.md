@@ -1,0 +1,6 @@
+---
+title: Seeds
+created: 2024-07-04 16:07
+updated: 2024-07-04 16:07
+---
+this is seeds
