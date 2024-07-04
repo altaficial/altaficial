@@ -31,11 +31,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Footprint",
+        title: "Recent Footprints",
         limit: 3,
         filter: (f) =>
-          f.slug!.startsWith("footprint/") && f.slug! !== "footprint/index/" && !f.frontmatter?.noindex,
-        linkToMore: "footprint/" as SimpleSlug,
+          f.slug!.startsWith("footprints/") && f.slug! !== "footprints/index" && !f.frontmatter?.noindex,
+        linkToMore: "footprints/" as SimpleSlug,
       }),
     ),
     Component.DesktopOnly(
