@@ -1,12 +1,14 @@
 ---
 created: 2024-06-28 16:06
-updated: 2024-07-04 16:07
+updated: 2024-07-06 00:07
 title: I don’t want to have children, and stop telling me I’ll change my mind :D
 date: 2022-09-09
+tags:
+  - lakeside
 ---
 I wrote this at age 21 and had an abortion because I never wanted to have children. My mom always haunts me with talk of pregnancy, as she had me when she was young and had to give up her dreams for me. She didn't regret it but didn't want me to make the same sacrifice. When I was 15, I watched a show called 'The Fosters' and loved it so much that I decided I wanted to adopt children in the future rather than have my own. I used to teach art therapy for stateless and refugee children and felt a deep connection with them. I saw their potential but recognized the lack of resources to support them. I made a promise to myself that I would never bring innocent children into this cruel world and that I would adopt these exceptional, suffering children instead.
 
-I've been a fan of [[philosophy]] for as long as I can remember, and I stumbled upon the concept of [[anti-natalism]]. It piqued my interest, so I did some more research on it. Although I don't want to label myself as an anti-natalist, I value the idea behind it. I wish people around me would respect my decision and stop telling me that I will change my mind when I get older. I put a lot of love, elbow grease, and brainpower into making this decision. It wasn't just a whim or a hasty choice - I did my research and gave it some serious thought. I'm pretty firm in my decision not to have biological children, but I'm definitely open to the possibility of adoption down the road.
+I've been a fan of [[Philosophy]] for as long as I can remember, and I stumbled upon the concept of [[anti-natalism]]. It piqued my interest, so I did some more research on it. Although I don't want to label myself as an anti-natalist, I value the idea behind it. I wish people around me would respect my decision and stop telling me that I will change my mind when I get older. I put a lot of love, elbow grease, and brainpower into making this decision. It wasn't just a whim or a hasty choice - I did my research and gave it some serious thought. I'm pretty firm in my decision not to have biological children, but I'm definitely open to the possibility of adoption down the road.
 
 Having children is not life-affirming and is immoral. When I was pregnant, I thought I loved this baby so much that I didn't have them. It’s unethical and immoral to bring a child when you know there are so many suffering children that you could use your kindness and help them survive in this cruel world instead of adding one or more.
 
