@@ -1,6 +1,6 @@
 ---
 created: 2024-07-05 18:07
-updated: 2024-07-05 21:07
+updated: 2024-07-08 17:07
 date: 2024-03-11
 title: From Productivity Porn, Toxic Trait Tools Lore to Local-First Tools and Digital Preservation
 tags:
@@ -36,7 +36,7 @@ This all ties back to my commitment to responsible innovation. I want to build t
 For now, I'm still figuring things out, learning as much as I can, and trying not to get overwhelmed (lesson learned). But I have a good feeling that my digital garden is a step in the right direction, and I'm excited to see where this journey takes me.
 
 ```poetry
-- alta :) 
+- your cyborg girl, alta :)  
 ```
 
 -----

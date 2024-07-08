@@ -1,19 +1,11 @@
 ---
 created: 2024-07-06 00:07
-updated: 2024-07-06 00:07
+updated: 2024-07-08 17:07
 date: 2023-11-23
 tags:
   - seeds
-  - evergreen
+  - mental-health
 ---
-Mental health is a big deal, especially for us digital natives. We're constantly bombarded with information, dealing with the pressure to be productive 24/7, and scrolling through carefully curated highlight reels on social media. It's no wonder anxiety and burnout are, like, super common.
-
-I've definitely dealt with my own struggles. Being constantly online can be a recipe for feeling overwhelmed and just plain blah. But it's also been a journey of learning how to take care of myself, build resilience, and find support in my community.
-
-In this section of my digital garden, I'm getting real about my experiences with mental health and sharing some of the resources and reflections that have helped me along the way. We'll talk about mindfulness, self-compassion, and how tech can both help and hurt our mental well-being. It's all about finding that balance and thriving in this crazy digital world.
-
-###### Why Mental Health Matters (and why it's not just about "being happy")
-
 Let's be real, mental health is way more than just slapping on a smile and pretending everything's peachy. It's about how we feel, think, and cope with the ups and downs of life. It affects our energy levels, our relationships, our work... basically everything.
 
 Think of it like this: your mental health is like the operating system of your brain. If it's glitching, everything else starts to lag. That's why taking care of your mental health is crucial, even when you _think_ you're fine.
@@ -34,4 +26,4 @@ Tech is a double-edged sword when it comes to mental health. On the one hand, it
 - **The good:** Online therapy, mental health apps, and virtual support groups have made it easier than ever to access help. And connecting with friends and family online can be a lifeline when we're feeling isolated.
 - **The bad:** The constant stream of notifications, the pressure to be "perfect" online, and the comparison trap of social media can take a serious toll on our mental well-being. And let's not forget the doomscrolling...
 
-Finding a healthy balance with technology is key. It's about being mindful of how it's affecting us and setting boundaries when needed. Remember, you're in control, not your devices.
+Finding a healthy balance with technology is key. It's about being mindful of how it's affecting us and setting boundaries when needed. Reminder, you're in control, not your devices.

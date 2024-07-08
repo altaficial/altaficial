@@ -1,13 +1,13 @@
 ---
 created: 2024-07-05 21:07
-updated: 2024-07-05 22:07
+updated: 2024-07-07 19:07
 date: 2021-11-21
 title: Creative Generalist
 tags:
   - garden-gate
 ---
 
-I've always been a creative generalist, someone who thrives on exploring diverse interests and connecting seemingly unrelated dots. This digital garden is a reflection of that mindset, a space where I can indulge my curiosity and weave together threads from different fields like technology, philosophy, mental health, and pop culture.
+I'd like to think that I've always been a creative generalist, someone who thrives on exploring diverse interests and connecting seemingly unrelated dots. This digital garden is a reflection of that mindset – a space where I can indulge my curiosity and weave together threads from different fields like technology, philosophy, mental health, and pop culture.
 
 **What is a creative generalist?**
 
