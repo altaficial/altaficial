@@ -62,9 +62,10 @@ This is just the tip of the iceberg. There are _tons_ of other areas where resea
 So, you're intrigued by this whole AI safety thing? Want to avoid accidentally summoning the digital devil? Good news: there's a whole universe of resources out there to get you up to speed. Here's some of my fave spots to geek out on AI safety:
 
 **Organizations:** 
+
 These folks are doing the heavy lifting on AI safety research and advocacy
 
--  **[Center for AI Safety (CAIS)]([https://www.safe.ai/](https://www.safe.ai/)):** This nonprofit is all about reducing the risks of AI on society. Think of them as the AI safety superheroes.
+-  **[Center for AI Safety (CAIS)](https://www.safe.ai/):** This nonprofit is all about reducing the risks of AI on society. Think of them as the AI safety superheroes.
 -  **[Future of Life Institute (FLI)](https://futureoflife.org/):** They're working to make sure AI benefits humanity as a whole, not just the rich, powerful and tech bros.
 -  **[The Machine Intelligence Research Institute (MIRI)](https://intelligence.org/):** These guys are deep in the weeds of long-term AI safety research. They're thinking about the stuff that'll keep us safe decades from now.
 
@@ -72,7 +73,7 @@ These folks are doing the heavy lifting on AI safety research and advocacy
 - **[AI Safety Fundamentals](https://aisafetyfundamentals.com/):** This course by BlueDot Impact is like AI Safety 101. It'll give you a good foundation in the basics. 
 - **[80,000 Hours AI Safety Career Guide](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/):** Thinking about a career in AI safety? This guide has everything you need to know.
 - **[Wait But Why on AI](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html):** These articles are a super fun and informative way to dive into the world of AI. Think of it like a BuzzFeed listicle, but for brainy folks.
-- **[LessWrong](https://www.lesswrong.com/):** This community blog is where all the AI safety nerds hang out. It's full of thought-provoking articles and discussions. 
+- **[LessWrong](https://www.lesswrong.com/):** This community is where all the AI safety nerds hang out. It's full of thought-provoking articles and discussions. 
 
 **Books:**
 - **Human Compatible** by Stuart Russell: This book explores how we can build AI that's actually aligned with human values. It's like a relationship guide for humans and AI. 
