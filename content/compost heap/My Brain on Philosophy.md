@@ -1,18 +1,9 @@
 ---
-title: Philosophy
-creation_date: July 7, 2023
-modification_date: July 7, 2023
-date: 2017-07-07
-created: 2023-07-07 18:07
-updated: 2024-07-06 00:07
+created: 2024-07-06 14:07
+updated: 2024-07-06 16:07
+tags:
+  - philosophy
 ---
-# Existential Deep Dives & Random Musings Of A Chronically Online CyborgPhilosophy
-
-
-As a [[chronically online]] [[cyborg girl]], I can't help but ponder the big questions of life, the universe, and everything. What's the point of it all? What does it mean to be human (or partially machine) in this crazy world? This section is where I dump all my philosophical thoughts and musings, drawing inspiration from ancient wisdom, modern thinkers, and even the occasional pop culture reference. Think of it as my evergreen notebook of existential pondering.
-
-### Philosophical Interests & Questions
-
 Some of the things that keep me up at night (besides the glow of my laptop screen):
 
 - The nature of consciousness and reality: Are we living in a simulation? Is there life after death?
@@ -31,12 +22,3 @@ Some of the things that keep me up at night (besides the glow of my laptop scree
 - **Postmodernism:** Questioning everything, rejecting grand narratives, embracing the chaos... yeah, this one speaks to my inner rebel.
 - **Stoicism:** This ancient philosophy teaches us how to find peace and happiness by accepting what we can't control and focusing on what we can. Sounds pretty useful in today's chaotic world.
 - **Buddhism:** Mindfulness, meditation, and the idea that suffering is caused by attachment... definitely some wisdom to be found here.
-
-### Book Reviews & Summaries
-
-I'm a total bookworm, so you'll find plenty of reviews and summaries of philosophical works here. I'll give you the lowdown on the classics (think Plato and Aristotle), modern thinkers (like Foucault and Derrida), and maybe even some lesser-known gems that I stumble upon.
-
-
-### Reflections on the Meaning of Life & the Human Condition
-
-This is where things get deep. I'll share my thoughts on everything from the nature of happiness to the fear of death. Expect some serious pondering, some lighthearted jokes, and maybe even a few existential breakdowns. Hey, it's all part of the journey, right?
