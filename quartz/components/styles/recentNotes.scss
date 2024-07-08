@@ -1,7 +1,7 @@
 .recent-notes {
   & > h3 {
-    margin: 0.5rem 0 0 0;
-    font-size: 1.2rem;
+    margin: 0rem 0 0 0;
+    font-size: 1rem;
     background: #5E52CF;
     background: linear-gradient(to right, #e77373f7 13%, #8f9df5 100%);
     background-clip: text;
@@ -10,20 +10,21 @@
 
   & > ul.recent-ul {
     list-style: none;
-    font-size: 12px;
-    margin-top: 1rem;
+    font-size: 0.1rem;
+    margin-top: 0.7rem;
     padding-left: 0;
 
     & > li {
-      margin: 1rem 0;
+      margin: 0rem 0;
       .section > .desc > h3 > a {
-        font-size: 1rem;
+        font-size: 0.7rem;
         background-color: transparent;
       }
 
       .section > .meta {
-        margin: 0 0 0.5rem 0;
+        margin: 0 0 0rem 0;
         opacity: 0.6;
+        font-size: 0.7rem;
       }
     }
   }

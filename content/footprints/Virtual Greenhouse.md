@@ -1,8 +1,8 @@
 ---
 created: 2024-07-07 20:07
-updated: 2024-07-08 17:07
+updated: 2024-07-09 00:07
 title: "Virtual Greenhouse: Your Mind in the Digital Wilderness"
-date: 2024-06-13
+date: 2024-02-06
 ---
 These digital gardens, rooted in the trippy hypertext garden concept, are like personal websites or online spaces where you can plant, nurture, and share your thoughts and creations.[^1] It's like having your own cozy cabin in the woods, but for your mind—a place to escape the endless scroll and cultivate your own intellectual jungle.
 
