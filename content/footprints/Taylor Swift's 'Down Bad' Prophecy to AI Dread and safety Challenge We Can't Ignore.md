@@ -83,7 +83,7 @@ These folks are doing the heavy lifting on AI safety research and advocacy
 
 This is just a taste of what's out there. If you're ready to go down the rabbit hole, there's a whole world of AI safety knowledge to explore and geek out! Just remember, knowledge is power. The more we know about AI, the better equipped we'll be to make sure it's a force for good in the world.
 
-### My Two Cents:
+### My Two Cents
 
 Okay, I'm not gonna pretend I'm some AI guru, but I'm definitely low-key freaking out about the potential risks. Like, we need to have some serious heart-to-hearts about this stuff so we can make sure AI actually helps humanity instead of, you know, ending it. We gotta get ahead of the game on AI safety before it's too late.
 
