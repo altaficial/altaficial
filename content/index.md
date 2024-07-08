@@ -1,7 +1,7 @@
 ---
 title: Alta
 created: 2024-06-28 23:06
-updated: 2024-07-08 17:07
+updated: 2024-07-08 18:07
 tags:
   - evergreen
 ---
@@ -29,6 +29,6 @@ PS The whole "garden" metaphor isn't just for show. It's about nurturing ideas, 
 P.P.S. Oh, and if you're wondering why Taylor Swift seems to pop up in my musings every now and then, well, she _is_ the soundtrack of this digital garden. She's always singing about secret gardens in her mind, which, to me, feels like a kindred spirit connection to my own digital gardening adventures. Plus, those lyrics about planting a memory garden and escaping to gardens in her mind to live out her fantasy life? Total Dark Forest vibes. And they made me think more about my theory that we live in a simulation created for her amusement. (Listen to "The Lakes," "I hate it here," "Ivy," "Seven," "The Archer," and "The Great War" for the full immersive experience.)
 
 ```poetry
-- alta :)
+- your cyborg girl alta :)
 ```
 
