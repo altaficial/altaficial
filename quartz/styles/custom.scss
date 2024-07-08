@@ -30,11 +30,11 @@ opacity: 11%;
   
 }
 
-[saved-theme="dark"] body[data-slug="index"] img[src*="banner.svg"] {
+[saved-theme="dark"] body[data-slug="index"] img[src*="altabanner.svg"] {
   filter: invert(100%);
 }
 
-body[data-slug="thoughts/craft"] {
+body[data-slug="compost-heap"] {
   & li:has(> img, > video) {
     list-style-type: none;
 
