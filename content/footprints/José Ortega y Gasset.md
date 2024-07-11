@@ -1,6 +1,6 @@
 ---
 created: 2022-07-11 00:07
-updated: 2024-07-08 17:07
+updated: 2024-07-12 05:07
 tags:
   - philosophy
   - figures
@@ -48,7 +48,7 @@ Looking at Ortega y Gasset's ideas through my own cyborg lens has been a total t
 ```poetry
 - your cyborg girl, alta :) 
 ```
-# Footnotes
+
 
 [^1]: José Ortega y Gasset, _Meditations on Quixote_ (1914)
 [^2]: José Ortega y Gasset, _The Revolt of the Masses_ (1930)

@@ -1,6 +1,6 @@
 ---
 created: 2024-07-07 20:07
-updated: 2024-07-09 00:07
+updated: 2024-07-12 05:07
 title: "Virtual Greenhouse: Your Mind in the Digital Wilderness"
 date: 2024-02-06
 ---
@@ -38,7 +38,6 @@ So, are virtual greenhouses the next big thing? Who knows? But even if they're n
 ```poetry
 - your cyborg girl, alta :) 
 ```
-# Footnotes
 
 [^1]: 1. Anne Hammond, "The Digital Garden as a Metaphor for the Internet," _First Monday_ 12, no. 11 (2007).
 [^2]:  Howard Rheingold, _The Virtual Community: Homesteading on the Electronic Frontier_ (Cambridge, MA: MIT Press, 2000).
