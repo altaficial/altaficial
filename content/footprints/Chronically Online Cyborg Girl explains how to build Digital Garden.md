@@ -1,6 +1,6 @@
 ---
 created: 2024-07-09 00:07
-updated: 2024-07-09 00:07
+updated: 2024-07-13 02:07
 title: Chronically Online Cyborg Girl Explains How To Build Digital Garden
 date: 2024-07-07
 tags:
@@ -32,7 +32,7 @@ I spent weeks crafting the perfect dashboard for my needs. Here's what my Obsidi
 
 <img src=".alta's-obsidian.png" width="1200px" height="350px">
 
-**Theme:** Border by Akifyss. I'm all about minimalism and focus, so the Auto Hide feature is a lifesaver. It lets me declutter my workspace and zone in on what matters. Plus, the ability to customize it to my heart's content is just _chef's kiss_. Seriously, being able to tinker with the CSS to make it uniquely mine, giving me a dopamine rush.  
+**Theme:** [Border by Akifyss](https://github.com/Akifyss/obsidian-border/blob/main/presets.md). I'm all about minimalism and focus, so the Auto Hide feature is a lifesaver. It lets me declutter my workspace and zone in on what matters. Plus, the ability to customize it to my heart's content is just _chef's kiss_. Seriously, being able to tinker with the CSS to make it uniquely mine, giving me a dopamine rush.  
 
 **Dashboard:** Inspired by Timestripe (shoutout to their long-term thinking philosophy!), I built a custom Horizon-style dashboard using Obsidian's Canvas feature. It includes my daily, weekly, monthly, and life notes, plus an Insights section and a board with virtual post-its. This setup keeps me organized and focused on my goals. 
 
@@ -46,12 +46,12 @@ I spent weeks crafting the perfect dashboard for my needs. Here's what my Obsidi
 
 If Obsidian's your tool of choice, here are some awesome resources to get you started:
 
-- **Obsidian Rocks:** This website is a treasure trove of tutorials, tips, and tricks for mastering Obsidian.
-- **Obsidian Forum and Discord:** The Obsidian community is incredibly welcoming and always ready to help newbies.
-- **Brandon Boswell Youtube Channel:** If you're a visual learner, Brandon's videos are a great way to learn the ropes.
-- **Nicole van der Hoeven:** Another fantastic YouTube channel with helpful Obsidian tutorials.
+- **[Obsidian Rocks](https://obsidian.rocks/):** This website is a treasure trove of tutorials, tips, and tricks for mastering Obsidian.
+- **[Obsidian Forum](https://forum.obsidian.md/) and [Discord](https://discord.gg/obsidianmd):** The Obsidian community is incredibly welcoming and always ready to help newbies.
+- **[Brandon Boswell](https://www.youtube.com/@BrandonKBoswell):** If you're a visual learner, Brandon's videos are a great way to learn the ropes.
+- [**Nicole van der Hoeven](https://www.youtube.com/@nicolevdh):** Another fantastic YouTube channel with helpful Obsidian tutorials.
 
-You can publish your garden with Obsidian Publish or Quartz (if you're tech-savvy).
+You can publish your garden with[ Obsidian Publish](https://obsidian.md/publish) or [Quartz](https://quartz.jzhao.xyz/) (if you're tech-savvy).
 
 ## Tending Your Digital Wilderness
 
