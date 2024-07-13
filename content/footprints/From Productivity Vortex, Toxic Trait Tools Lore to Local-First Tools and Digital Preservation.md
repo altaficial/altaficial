@@ -1,8 +1,8 @@
 ---
 created: 2024-07-05 18:07
-updated: 2024-07-08 17:07
+updated: 2024-07-13 22:07
 date: 2024-03-11
-title: From Productivity Porn, Toxic Trait Tools Lore to Local-First Tools and Digital Preservation
+title: From Productivity Vortex, Toxic Trait Tools Lore to Local-First Tools and Digital Preservation
 tags:
   - lakeside
 ---
