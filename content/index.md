@@ -1,7 +1,7 @@
 ---
 title: Alta
 created: 2024-06-28 23:06
-updated: 2024-07-13 03:07
+updated: 2024-07-13 23:07
 tags:
   - evergreen
 ---
@@ -19,10 +19,10 @@ For me, that compass is my love for wildlife. Living in my cozy little cave, sur
 
 Meander along these virtual pathways, you may stumble upon hidden groves of knowledge or even find a fertile spot to plant a seed of your own. You can follow these trails to unearth the depths of my digital wilderness:
 
-- [[garden-gate|Garden Gate]]: Step through this gate, and you'll find a whimsical world of inspiration. It's where new ideas sprout and blossom, fueled by curiosity and a dash of wonder.
-- [[lakeside|Lakeside]]: This is my creative sanctuary, where ideas come to life. It's where I craft things I'm proud of and where my most treasured beliefs and long-term visions take root.
+- [[10 Creative/11 Altaficial/content/tags/garden-gate|Garden Gate]]: Step through this gate, and you'll find a whimsical world of inspiration. It's where new ideas sprout and blossom, fueled by curiosity and a dash of wonder.
+- [[10 Creative/11 Altaficial/content/tags/lakeside|Lakeside]]: This is my creative sanctuary, where ideas come to life. It's where I craft things I'm proud of and where my most treasured beliefs and long-term visions take root.
 - [[Blackwood Bookshelf|Blackwood]]: No cobwebs or creaky floorboards here, but this is where I stacked my well-worn books, both old and new, that have shaped my perspective on the world.
-- [[tea|Mad Woman's Tea Party]]: Pull up a chair, grab your favorite mug, and let's spill the tea. This is where I share a curated collection of my favorite/juicy reads, perfect for sipping a cup of tea and letting your mind wander.
+- [[10 Creative/11 Altaficial/content/tags/tea|Mad Woman's Tea Party]]: Pull up a chair, grab your favorite mug, and let's spill the tea. This is where I share a curated collection of my favorite/juicy reads, perfect for sipping a cup of tea and letting your mind wander.
 
 PS The whole "garden" metaphor isn't just for show. It's about nurturing ideas, watching them grow, and sharing the harvest with others. Plus, it's a gentle reminder that even the messiest gardens can still be beautiful.
 
