@@ -1,13 +1,13 @@
 ---
 created: 2024-07-09 00:07
-updated: 2024-07-13 02:07
+updated: 2024-07-13 22:07
 title: Chronically Online Cyborg Girl Explains How To Build Digital Garden
 date: 2024-07-07
 tags:
   - evergreen
   - lakeside
 ---
-As a chronically online cyborg girl, my brain is constantly buzzing with ideas, questions, and random musings. But I realized that I was getting caught up in the endless scroll of the internet, constantly bombarded with information and distractions. After a while, it started to feel less like a fun adventure and more like [[From Productivity Porn, Toxic Trait Tools Lore to Local-First Tools and Digital Preservation|a digital wasteland]]. I needed a space of my own, a sanctuary where I could cultivate my thoughts, explore my interests, and connect with others on a deeper level. That's when I stumbled upon the concept of digital gardens, and it was like a lightbulb went off in my head.
+As a chronically online cyborg girl, my brain is constantly buzzing with ideas, questions, and random musings. But I realized that I was getting caught up in the endless scroll of the internet, constantly bombarded with information and distractions. After a while, it started to feel less like a fun adventure and more like [[From Productivity Vortex, Toxic Trait Tools Lore to Local-First Tools and Digital Preservation|a digital wasteland]]. I needed a space of my own, a sanctuary where I could cultivate my thoughts, explore my interests, and connect with others on a deeper level. That's when I stumbled upon the concept of digital gardens, and it was like a lightbulb went off in my head.
 
 Inspired by the idea of creating a [[virtual greenhouse]] where you could nurture thoughts, explore connections, and share harvests of knowledge. I set out to build my own digital oasis using [Obsidian](https://help.obsidian.md/import/markdown) and [Quartz](https://github.com/jackyzha0/quartz). It's been a journey of self-discovery, organization, and, let's be real, a bit of obsession. But it's also been incredibly rewarding. My digital garden has become my personal knowledge base, creative playground, and therapy couch all rolled into one. And now, I'm here to share my experience and show you how you can build your own.
 
@@ -24,7 +24,7 @@ Before we dive into the nitty-gritty, let's talk vibes. My digital garden is all
 - **Built to Last:** This garden is for the long haul. I want it to grow and evolve with me, not become obsolete with the next shiny new app. That's why I prioritized tools and formats that are future-proof. 
 - **Open to All:** My digital garden is a welcoming space for everyone. It's accessible, inclusive, and designed to foster connection and collaboration.
 
-Obsidian was the perfect fit for me, balancing flexibility, simplicity, and power. It's a bit technical, but the payoff is huge. Choose tools that align with your needs and values, so you [[From Productivity Porn, Toxic Trait Tools Lore to Local-First Tools and Digital Preservation|don't get sucked into the productivity vortex]].
+Obsidian was the perfect fit for me, balancing flexibility, simplicity, and power. It's a bit technical, but the payoff is huge. Choose tools that align with your needs and values, so you [[From Productivity Vortex, Toxic Trait Tools Lore to Local-First Tools and Digital Preservation|don't get sucked into the productivity vortex]].
 
 ## My Cozy Obsidian Setup
 
