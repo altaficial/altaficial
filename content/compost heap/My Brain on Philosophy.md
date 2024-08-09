@@ -1,8 +1,9 @@
 ---
 created: 2024-07-06 14:07
-updated: 2024-07-06 16:07
+updated: 2024-08-09 05:08
 tags:
   - philosophy
+date: 2024-07-09
 ---
 Some of the things that keep me up at night (besides the glow of my laptop screen):
 
