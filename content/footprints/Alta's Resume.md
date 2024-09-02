@@ -1,6 +1,8 @@
 ---
-created: 2024-09-02 19:09
+created: 2024-03-01 19:09
 updated: 2024-09-02 19:09
+publishdate: 2024-02-08
+date: 2024-01-08
 ---
 I am a passionate advocate for ethical technology, a lifelong learner, and a creative problem-solver. My insatiable curiosity has led me on diverse paths, from studying psychology and philosophy to exploring political activism, immersing myself in different cultures, and taking on various roles. My background spans continents and fields, from teaching art therapy to refugee children to co-founding a tech startup and leading educational programs. Along the way, I've honed my skills in technology, design, and system-building, always driven by a desire to create positive change. I thrive on understanding how things work and finding ways to improve them, whether through software design, building ventures, or crafting efficient systems.
 
