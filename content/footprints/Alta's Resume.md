@@ -1,6 +1,6 @@
 ---
 created: 2024-03-01 19:09
-updated: 2024-09-02 19:09
+updated: 2024-09-28 01:09
 publishdate: 2024-02-08
 date: 2024-01-08
 ---
@@ -12,10 +12,6 @@ Currently, I'm focusing my passion and experience on addressing existential risk
 ### July 2024 - Present: Contributor at [UN for AI](https://unforai.org/)
 
 Advised and contributed to the development of UNforAI, championing the ethical and responsible use of artificial intelligence. Collaborated on planning, website design, and petition campaigns, creating the website design from concept to completion to effectively communicate UNforAI's mission and vision. My efforts contributed to increased awareness and support for the project.
-
-### March 2023 - Present: Co-founder at [Bunker in Paradise](http://www.bunkerinparadise.com/)
-
-Co-founded and designed a website focused on preparedness and resilience in the face of potential societal collapse. Led research on location and supplies for a bunker concept in paradise, with the goal of building a community to facilitate discussions and preparedness efforts. The website has attracted a growing community of individuals interested in preparedness strategies.
 
 ### April 2024: Expanding My Horizons for Responsible Innovation
 
