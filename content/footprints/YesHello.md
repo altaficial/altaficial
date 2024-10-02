@@ -3,7 +3,7 @@ created: 2023-09-23 17:10
 updated: 2024-10-02 21:10
 date: 2023-09-23
 ---
-<img src=".yeshelloteam.gif" width="1200px" height="350px">
+<img src=".yeshelloteam.gif" width="1200px" height="300px">
 
 YesHello wasn't just my first startup, it was an adventure, a classroom, and a chance to create something different. I'm fortunate to have been part of the journey from the very beginning, alongside co-founders who shared my passion.
 
@@ -53,7 +53,7 @@ I had a blast crafting case studies highlighting the incredible impact YesHello 
 
 With the thrill of welcoming a wave of new users, our support team was swamped with chats and sessions. To lend a hand, I dug into user inquiries and support tickets, spotting common themes and areas where people needed more guidance. We then created a handy FAQ section and detailed how-to articles to tackle those common pain points head-on. The goal was to empower our users with self-service tools and reduce the burden on our support team. Plus, by highlighting some of the lesser-known features in these articles, we hoped to boost engagement and help users get the most out of YesHello.
 
-![[images/yeshellocontent.gif]]
+<img src=".yeshellocontent.gif" width="1200px" height="300px">
 
 ### System & Planning
 
@@ -63,7 +63,7 @@ Since I love building things, I didn't stop there. We ditched our external CRM a
 
 Of course, staying ahead of the competition is crucial in the fast-paced SaaS world. That's why I dove into market research, building a competitor database to track their every move – from pricing and features to marketing tactics. This intel helped us identify gaps in the market and refine our own strategies, ensuring YesHello stayed ahead of the curve. I even led a team-wide SWOT analysis to brainstorm ways to make our product even stronger.
 
-![[images/yeshellosystem.gif]]
+<img src=".yeshellosystem.gif" width="1200px" height="300px">
 
 ### Marketing
 
@@ -73,7 +73,7 @@ Building on that momentum, the team and I initiated a strategic marketing calend
 
 We also knew that keeping our existing customers engaged was crucial. So, we started a monthly newsletter packed with valuable content – product updates, inspiring customer stories, and industry insights. We constantly analyzed reader engagement, tweaking the content to ensure it was always valuable and relevant.
 
-![[images/yeshellomarketing.gif]]
+<img src=".yeshellomarketing.gif" width="1200px" height="300px">
 
 ### Operations & Billing
 
