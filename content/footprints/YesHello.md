@@ -3,7 +3,7 @@ created: 2023-09-23 17:10
 updated: 2024-10-02 21:10
 date: 2023-09-23
 ---
-<img src=".yeshelloteam.gif" width="1200px" height="350px">
+<img src="./image/yeshelloteam.gif" width="1200px" height="350px">
 
 YesHello wasn't just my first startup, it was an adventure, a classroom, and a chance to create something different. I'm fortunate to have been part of the journey from the very beginning, alongside co-founders who shared my passion.
 
@@ -28,7 +28,6 @@ Our roadmap started humbly on Trello, but as YesHello grew, we realized we neede
 Our original website wasn't exactly a shining beacon of user-friendliness. It was a bit cluttered, a tad slow, and definitely not helping us grow. So, I rolled up my sleeves and led a total website makeover. We tackled everything from the layout and visual appeal to the nuts-and-bolts technical stuff. By 2022, we had a sleek, speedy new website that was 87% faster than before. The result? More visitors, happier users, and a website that finally felt like a true reflection of the YesHello brand.
 
 <img src=".yeshelloproduct.gif" width="1200px" height="350px">
-
 ### Customer Success
 
 As one of the co-founders of YesHello, my main priority is making sure that our users have the best possible experience with our platform. I'm truly passionate about helping people leverage technology to achieve their goals, and I believe that technology should be intuitive and empowering. That is why I lead the Customer Success Department at YesHello and adopt a hands-on approach to listened to feedback, proactively tackled challenges, and did everything possible to ensure our users had the tools and support they needed to truly thrive. This meant:
@@ -54,7 +53,6 @@ I had a blast crafting case studies highlighting the incredible impact YesHello 
 With the thrill of welcoming a wave of new users, our support team was swamped with chats and sessions. To lend a hand, I dug into user inquiries and support tickets, spotting common themes and areas where people needed more guidance. We then created a handy FAQ section and detailed how-to articles to tackle those common pain points head-on. The goal was to empower our users with self-service tools and reduce the burden on our support team. Plus, by highlighting some of the lesser-known features in these articles, we hoped to boost engagement and help users get the most out of YesHello.
 
 <img src=".yeshellocontent.gif" width="1200px" height="350px">
-
 ### System & Planning
 
 As mentioned on [About Me page](www.altaficial.com), I've always had a knack for finding ways to make things run smoothly. At YesHello, that meant setting up the systems and structures to keep our team humming along like a well-oiled machine. We started with Miro boards, covered in virtual sticky notes (can you tell I have a slight obsession with Post-its, both digital and analog). But as we grew, it became clear we needed a more powerful tool to keep track of everything and collaborate effectively. So, I got to work and spent a good chunk of time creating [detailed spreadsheets](https://www.loom.com/share/5b62d680d38f4767bf2230e107844b94), which eventually evolved into a full-fledged Notion workspace. It was our new digital HQ, giving us the power and flexibility to manage our growing team and ever-ambitious goals.
@@ -64,7 +62,6 @@ Since I love building things, I didn't stop there. We ditched our external CRM a
 Of course, staying ahead of the competition is crucial in the fast-paced SaaS world. That's why I dove into market research, building a competitor database to track their every move – from pricing and features to marketing tactics. This intel helped us identify gaps in the market and refine our own strategies, ensuring YesHello stayed ahead of the curve. I even led a team-wide SWOT analysis to brainstorm ways to make our product even stronger.
 
 <img src=".yeshellosystem.gif" width="1200px" height="350px">
-
 ### Marketing
 
 We embraced the SaaS tradition of yearly promotions, using events like Black Friday and Cyber Monday as our launchpad. To maximize our reach, we launched multi-channel campaigns across email, social media, partnerships, and even paid advertising. This not only boosted user retention but also brought in a wave of new sign-ups.
@@ -74,7 +71,6 @@ Building on that momentum, the team and I initiated a strategic marketing calend
 We also knew that keeping our existing customers engaged was crucial. So, we started a monthly newsletter packed with valuable content – product updates, inspiring customer stories, and industry insights. We constantly analyzed reader engagement, tweaking the content to ensure it was always valuable and relevant.
 
 <img src=".yeshellomarketing.gif" width="1200px" height="350px">
-
 ### Operations & Billing
 
 As YesHello grew, so did our operational costs. To keep things sustainable, we knew we needed to make some adjustments. This meant increasing prices for new plans, but we did so carefully, making sure our loyal users weren't impacted and clearly communicating the reasons behind the change. I took in charge in developing a new pricing strategy, collaborating with sales, marketing, and tech teams, we analyzed competitor pricing, weighed our costs and desired profit margins, and considered the immense value we provided to our customers. Using this data, we designed a flexible, tiered pricing structure that offers different feature sets. This structure appeals to both budget-conscious and feature-rich clients. This optimized revenue generation and customer satisfaction.
