@@ -1,6 +1,6 @@
 ---
 created: 2024-07-09 00:07
-updated: 2024-10-02 21:10
+updated: 2024-10-02 22:10
 title: Chronically Online Cyborg Girl Explains How To Build Digital Garden
 date: 2024-07-07
 tags:
@@ -30,7 +30,7 @@ Obsidian was the perfect fit for me, balancing flexibility, simplicity, and powe
 
 I spent weeks crafting the perfect dashboard for my needs. Here's what my Obsidian oasis looks like:
 
-![[../../public/footprints/images/alta's-obsidian.png]]
+<img src=".alta's-obsidian.png" width="1200px" height="350px">
 
 **Theme:** [Border by Akifyss](https://github.com/Akifyss/obsidian-border/blob/main/presets.md). I'm all about minimalism and focus, so the Auto Hide feature is a lifesaver. It lets me declutter my workspace and zone in on what matters. Plus, the ability to customize it to my heart's content is just _chef's kiss_. Seriously, being able to tinker with the CSS to make it uniquely mine, giving me a dopamine rush.  
 
