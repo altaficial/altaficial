@@ -35,6 +35,7 @@ Data-Driven Improvement: We didn't just rely on gut feelings; we let the numbers
 
 Support That Cares: Building a comprehensive knowledge base and a reliable ticketing system was just the beginning. We went above and beyond, fostering a culture where everyone on the team was passionate about helping our users succeed. I personally connected with high-value customers, building relationships that went beyond simple transactions. This genuine care translated into a stellar 4.8 rating on G2 and countless glowing reviews.
 
+<img src=".cs.png" width="1200px" height="350px">
 ### Content Creation
 
 I absolutely love helping people tackle their challenges, and that's exactly what I get to do for YesHello's users! Crafting content for our knowledge base, blog, YouTube channel, and social media is my jam. I thrive on showing people the incredible things they can achieve with our platform.
