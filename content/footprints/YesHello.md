@@ -1,6 +1,7 @@
 ---
-created: 2024-10-02 17:10
+created: 2023-09-23 17:10
 updated: 2024-10-02 17:10
+date: 2023-09-23
 ---
 YesHello wasn't just my first startup, it was an adventure, a classroom, and a chance to create something different. I'm fortunate to have been part of the journey from the very beginning, alongside co-founders who shared my passion.
 
