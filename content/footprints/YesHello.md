@@ -3,6 +3,8 @@ created: 2023-09-23 17:10
 updated: 2024-10-02 17:10
 date: 2023-09-23
 ---
+<img src=".yeshelloteam.gif" width="1200px" height="350px">
+
 YesHello wasn't just my first startup, it was an adventure, a classroom, and a chance to create something different. I'm fortunate to have been part of the journey from the very beginning, alongside co-founders who shared my passion.
 
 My love for crafting user experiences, solving problems, and making things work efficiently fueled everything I did at YesHello. Whether it was making onboarding feel like a breeze or turning dry technical details into engaging content, I wanted our users to feel empowered by our product.
@@ -36,6 +38,7 @@ Data-Driven Improvement: We didn't just rely on gut feelings; we let the numbers
 Support That Cares: Building a comprehensive knowledge base and a reliable ticketing system was just the beginning. We went above and beyond, fostering a culture where everyone on the team was passionate about helping our users succeed. I personally connected with high-value customers, building relationships that went beyond simple transactions. This genuine care translated into a stellar 4.8 rating on G2 and countless glowing reviews.
 
 <img src=".cs.png" width="1200px" height="350px">
+
 ### Content Creation
 
 I absolutely love helping people tackle their challenges, and that's exactly what I get to do for YesHello's users! Crafting content for our knowledge base, blog, YouTube channel, and social media is my jam. I thrive on showing people the incredible things they can achieve with our platform.
