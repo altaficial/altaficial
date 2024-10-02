@@ -28,6 +28,7 @@ Our roadmap started humbly on Trello, but as YesHello grew, we realized we neede
 Our original website wasn't exactly a shining beacon of user-friendliness. It was a bit cluttered, a tad slow, and definitely not helping us grow. So, I rolled up my sleeves and led a total website makeover. We tackled everything from the layout and visual appeal to the nuts-and-bolts technical stuff. By 2022, we had a sleek, speedy new website that was 87% faster than before. The result? More visitors, happier users, and a website that finally felt like a true reflection of the YesHello brand.
 
 <img src=".yeshelloproduct.gif" width="1200px" height="350px">
+
 ### Customer Success
 
 As one of the co-founders of YesHello, my main priority is making sure that our users have the best possible experience with our platform. I'm truly passionate about helping people leverage technology to achieve their goals, and I believe that technology should be intuitive and empowering. That is why I lead the Customer Success Department at YesHello and adopt a hands-on approach to listened to feedback, proactively tackled challenges, and did everything possible to ensure our users had the tools and support they needed to truly thrive. This meant:
