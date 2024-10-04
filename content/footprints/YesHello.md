@@ -5,6 +5,9 @@ date: 2023-09-23
 ---
 <img src="https://res.cloudinary.com/dup6hy4zy/image/upload/v1728010963/yeshelloteam_vcofuo.gif" width="1200" height="300" />
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+
 YesHello wasn't just my first startup, it was an adventure, a classroom, and a chance to create something different. I'm fortunate to have been part of the journey from the very beginning, alongside co-founders who shared my passion.
 
 My love for crafting user experiences, solving problems, and making things work efficiently fueled everything I did at YesHello. Whether it was making onboarding feel like a breeze or turning dry technical details into engaging content, I wanted our users to feel empowered by our product.
