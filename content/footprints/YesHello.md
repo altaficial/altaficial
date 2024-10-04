@@ -1,9 +1,9 @@
 ---
 created: 2023-09-23 17:10
-updated: 2024-10-02 21:10
+updated: 2024-10-04 10:10
 date: 2023-09-23
 ---
-<img src=".yeshelloteam.gif" width="1200px" height="300px">
+<img src="https://res.cloudinary.com/dup6hy4zy/video/upload/v1716323899/yeshello_team_hzaftm.mp4" width="1200px" height="300px">
 
 YesHello wasn't just my first startup, it was an adventure, a classroom, and a chance to create something different. I'm fortunate to have been part of the journey from the very beginning, alongside co-founders who shared my passion.
 
