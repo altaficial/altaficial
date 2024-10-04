@@ -14,7 +14,7 @@ section {
   margin: 0;
   max-width: 100%;
   box-sizing: border-box;
-  background-color: none;
+  background-color: transparent;
   font-family: var(--bodyFont);
   color: var(--darkgray);
   font-size: 0.8rem;
@@ -23,7 +23,7 @@ section {
 }
 
 .text-highlight {
-  background-color: none;
+  background-color: transparent;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
