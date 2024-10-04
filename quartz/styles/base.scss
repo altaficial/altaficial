@@ -20,10 +20,11 @@ section {
   font-size: 0.8rem;
   letter-spacing: 0.6px;
   font-weight: lighter;
+  user-select: auto;
 }
 
 .text-highlight {
-  background-color: transparent;
+  background-color: var(--highlight);
   padding: 0 0.1rem;
   border-radius: 5px;
 }
