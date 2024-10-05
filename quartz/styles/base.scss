@@ -24,14 +24,14 @@ section {
 }
 
 .text-highlight {
-  background-color: var(--highlight);
+  background-color: transparent;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
 
 ::selection {
-  background: var(--highlight);
-  color: var(--darkgray);
+  background: #cdd3fb;
+  color: #050087;
 }
 
 p,
@@ -74,7 +74,7 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary) !important;
+    color: #8e7ab7ef !important;
   }
 
   &.internal {
