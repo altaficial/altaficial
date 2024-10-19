@@ -1,9 +1,7 @@
 ---
-created: 2024-05-13 07:09
+created: 2024-05-13 13:10
 updated: 2024-10-19 13:10
 date: 2024-05-13
-tags:
-  - seeds
 ---
 This corner of the internet is where I let my thoughts run wild about the intersection of tech and our world. Some of these ideas might spark a sense of déjà vu, and that's okay! It's impossible to claim complete originality these days. But I can say with confidence that these ideas were born from my own experiences and musings. If you've been toying with similar concepts, have seen something like this out there, or simply want to collaborate, hit me up. I'm all about building tech that doesn't just exist, but actively contributes to a better world (universe(s)?).
 
