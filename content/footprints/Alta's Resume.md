@@ -1,6 +1,6 @@
 ---
 created: 2024-03-01 19:09
-updated: 2024-09-28 01:09
+updated: 2024-10-21 16:10
 publishdate: 2024-02-08
 date: 2024-01-08
 ---
@@ -8,7 +8,7 @@ I am a passionate advocate for ethical technology, a lifelong learner, and a cre
 
 Currently, I'm focusing my passion and experience on addressing existential risks, particularly the ethical implications of AI, data science, and climate change. I believe our choices shape our future, and I'm dedicated to using my skills to build a brighter, more equitable, and sustainable world.
 
-[Download My Resume](https://drive.google.com/file/d/1lwHYsyPqxhzcfu5toofeq0ezzSLI07GB/view?usp=sharing) • [Linkedin](https://www.linkedin.com/in/altaficial/ ) • [Main Website](https://altaficial.com)
+[Download My Resume](https://drive.google.com/file/d/1ceqUlosfv0jsNER6sbo8OASTF31E06fh/view?usp=sharing) • [Linkedin](https://www.linkedin.com/in/altaficial/ ) • [Main Website](https://altaficial.com)
 ### July 2024 - Present: Contributor at [UN for AI](https://unforai.org/)
 
 Advised and contributed to the development of UNforAI, championing the ethical and responsible use of artificial intelligence. Collaborated on planning, website design, and petition campaigns, creating the website design from concept to completion to effectively communicate UNforAI's mission and vision. My efforts contributed to increased awareness and support for the project.
