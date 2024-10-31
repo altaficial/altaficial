@@ -46,7 +46,7 @@ Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical tec
 	- Implemented A/B testing to compare different onboarding variations and identify the most effective approach.
 - **[Result](https://craft.altaficial.com/footprints/YesHello#customer-success):** The redesigned onboarding process led to a dramatic increase in free trial conversions (from 33% to 73%), representing a 120% improvement. The onboarding time was also reduced by 80%, leading to greater user satisfaction and faster time-to-value, which contributed to increased user adoption and revenue growth.
 
-![[../../public/footprints/images/usergrowthchart.png]]
+![[footprints/images/usergrowthchart.png]]
 
 ## [YesHello Knowledge Base](https://docs.yeshello.chat/)
 
@@ -171,7 +171,7 @@ Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical tec
     - Gathered feedback from the team to continuously improve the workspace and ensure it met their evolving needs.
 - **Result:** The Notion workspace significantly enhanced team collaboration, streamlined workflows, and improved overall productivity. This resulted in a 15% reduction in meeting times, freeing up valuable time for focused work and demonstrating the positive impact of a centralized and organized workspace.
 
-![[../../public/footprints/images/yeshellonotion.png]]
+![[footprints/images/yeshellonotion.png]]
 
 ## YesHello Operations & Billing
 
@@ -220,6 +220,8 @@ Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical tec
     - Ensured data security and streamlined file access, reducing the risk of data loss and improving data integrity.
     - Improved compliance with data regulations, ensuring that sensitive information was handled and stored securely.
     - Improved file accessibility, reduced time spent searching for documents, and facilitated smoother collaboration among team members.
+
+![[footprints/images/yeshellofile.png]]
 
 ## Illuminate Hostel
 
@@ -275,7 +277,7 @@ Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical tec
     - Prepared a presentation and submitted my app concept to the ASEAN Blue Innovation Challenge.
 - **Result:** While I didn't win the challenge, the experience was valuable in developing my UX/UI design skills and applying them to a real-world problem. I gained insights into the app design process, learned from feedback, and further developed my passion for creating user-centered solutions for environmental sustainability.
 
-![[../../public/footprints/images/sustainableapp.png]]
+![[footprints/images/sustainableapp.png]]
 
 
 ![[footprints/images/sustainabletourismapp.pdf]]
@@ -307,4 +309,4 @@ Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical tec
 - **Action:** I collaborated with the marketing team to identify key themes and content formats. I developed a comprehensive content calendar using Notion, created engaging content (blog posts, social media updates, infographics, etc.), and established a consistent publishing schedule. I also monitored content performance, analyzed key metrics, and made data-driven adjustments to optimize the content strategy.
 - **Result:** The content calendar improved the consistency and effectiveness of YesHello's content marketing efforts. It ensured a steady flow of valuable content that engaged our target audience, supported marketing campaigns, and strengthened the brand's online presence. It also facilitated better planning, collaboration, and content quality, enabling data-driven decision-making to optimize content strategy and achieve better results.
 
-![[../../public/footprints/images/yeshellocontentcalendar.png]]
+![[footprints/images/yeshellocontentcalendar.png]]
