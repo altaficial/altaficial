@@ -1,9 +1,9 @@
 ---
 created: 2024-11-01 16:11
-updated: 2024-11-01 20:11
+updated: 2024-11-02 01:11
 date: 2024-03-12
 ---
-**I'm Alta, a designer, project manager, and advocate for ethical technology.** I help organizations and individuals create impactful online experiences that drive positive change. Whether you need a stunning website, a streamlined workflow, or a compelling campaign, I can help you [[10 Creative/11 Altaficial/content/footprints/Body of Work|achieve your goals]].
+**I'm Alta, a designer, project manager, and advocate for ethical technology.** I help organizations and individuals create impactful online experiences that drive positive change. Whether you need a stunning website, a streamlined workflow, or a compelling campaign, I can help you achieve your goals.
 
 # The Product
 
@@ -54,7 +54,7 @@ Here's a detailed breakdown of my process for each service: [[The Process for My
 
 While I'm contributing to [UN for AI](www.unforai.org), but I also dedicate my time to freelance projects that align with my values. 
 
-If you need a skilled and adaptable temporary Chief of Staff or Personal Assistant to tackle your workload,  freeing up your time and energy to focus on what matters most. Message me [here](mailto:altaficial@proton.me) or [schedule](https://calendar.app.google/dHY6ysQWYGTCNvH26) a session with me. 
+If you need a skilled and adaptable temporary Chief of Staff or Personal Assistant to tackle your workload,  freeing up your time and energy to focus on what matters most. Message me [here](mailto:altaficial@proton.me) or [schedule](https://cal.com/altaficial/connect) a session with me. 
 
 # Want to collaborate and maximize our impact?
 

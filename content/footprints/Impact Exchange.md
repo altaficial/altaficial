@@ -1,6 +1,6 @@
 ---
 created: 2024-11-01 19:11
-updated: 2024-11-01 21:11
+updated: 2024-11-02 01:11
 title: Time Swap for Impact
 date: 2024-03-11
 ---
@@ -39,4 +39,4 @@ For every 1 hour of your time, I'll give you 2 hours of mine.
 
 I'm deeply committed to using my skills for good, and I believe this time exchange program is a unique way to amplify our impact. If you're passionate about responsible innovation and creating positive change, I invite you to trade time with me. I'm excited to see what we can achieve together, one hour at a time!
 
-[Schedule a Time Swap!](https://calendar.app.google/dHY6ysQWYGTCNvH26)
+[Schedule a Time Swap!](https://cal.com/altaficial/impact-time-swap)

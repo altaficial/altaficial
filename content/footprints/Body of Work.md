@@ -1,11 +1,13 @@
 ---
 created: 2024-07-17 17:10
-updated: 2024-11-01 16:11
+updated: 2024-11-02 00:11
 aliases: 
 title: "Alta's Curated Work Samples : A Body Of Work Spanning Technology, Education, And Social Impact"
 date: 2024-07-17
 ---
-Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical technology, lifelong learner, and creative problem-solver. Throughout my career, I've had the opportunity to contribute to a variety of projects, from co-founding a tech startup to developing and teaching art therapy programs for refugee children. This curated collection of work samples, representing my body of work, demonstrates my diverse skills and experience in project management, communication, design, and program development. It highlights my ability to create impactful solutions across various domains, including technology, education, and social impact.
+Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical technology, lifelong learner, and creative problem-solver. Throughout my career, I've had the opportunity to contribute to a variety of projects, from co-founding a tech startup to developing and teaching art therapy programs for refugee children. 
+
+This curated collection of work samples, representing my body of work, demonstrates my diverse skills and experience in project management, communication, design, and program development. It highlights my ability to create impactful solutions across various domains, including technology, education, and social impact.
 
 # Strategy & Leadership
 
