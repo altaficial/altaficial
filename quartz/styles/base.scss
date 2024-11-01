@@ -24,14 +24,15 @@ section {
 }
 
 .text-highlight {
-  background-color: transparent;
+  background-color: #cdd3fb;
+  color: #030053;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
 
 ::selection {
   background: #cdd3fb;
-  color: #050087;
+  color: #0a0842;
 }
 
 p,
@@ -60,10 +61,9 @@ ul,
 
 strong {
   font-weight: bolder 700;
-  background: #5E52CF;
-  background: linear-gradient(to right, #e77373f7 13%, #8f9df5 100%);
+  background: var(--secondary);
   background-clip: text;
-  -webkit-text-fill-color: transparent;  
+
 
 }
 

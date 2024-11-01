@@ -1,6 +1,6 @@
 ---
 created: 2024-07-17 17:10
-updated: 2024-10-31 19:10
+updated: 2024-11-01 16:11
 aliases: 
 title: "Alta's Curated Work Samples : A Body Of Work Spanning Technology, Education, And Social Impact"
 date: 2024-07-17
@@ -225,7 +225,7 @@ Welcome to my digital portfolio! I'm Alta, a passionate advocate for ethical tec
 
 ## Illuminate Hostel
 
-- **Situation:** he hostel lacked an optimized online presence, making it difficult for potential guests to find information, view photos, compare prices, and make bookings. This limited their visibility and potential to attract customers in a competitive hospitality market, especially as travelers increasingly rely on online resources to research and book accommodations.
+- **Situation:** The hostel lacked an optimized online presence, making it difficult for potential guests to find information, view photos, compare prices, and make bookings. This limited their visibility and potential to attract customers in a competitive hospitality market, especially as travelers increasingly rely on online resources to research and book accommodations.
 - **Task:** Set up and optimize the hostel's online presence to increase visibility, attract more bookings, and improve customer engagement. This involved creating a comprehensive and engaging online presence that showcased the hostel's unique features, amenities, and atmosphere.
 - **Action:** I created a complete Google Business profile, implemented a user-friendly booking system, integrated with online travel agents, and optimized the hostel's website and social media presence.
 - **Result:** This resulted in increased online visibility, more bookings, and improved customer engagement.

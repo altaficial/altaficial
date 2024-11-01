@@ -24,7 +24,7 @@
     "node": ">=18.14"
   },
   "keywords": [
-    "site generator",
+    "mini site",
     "ssg",
     "digital-garden",
     "markdown",
