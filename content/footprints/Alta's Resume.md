@@ -1,6 +1,6 @@
 ---
 created: 2024-03-01 19:09
-updated: 2024-10-21 16:10
+updated: 2024-11-01 07:11
 publishdate: 2024-02-08
 date: 2024-01-08
 ---
@@ -26,7 +26,7 @@ The vast potential of AI and data science is thrilling, but it's clear that inno
 
 ### Feb 2020 - Sept 2023: Co-founder at YesHello
 
-In September 2023, I made the decision to leave YesHello to pursue new challenges and opportunities. I am immensely proud of the work we accomplished and grateful for the experience. You can find more details about my contributions on [this page.](https://altaficial.com/yeshello)
+In September 2023, I made the decision to leave YesHello to pursue new challenges and opportunities. I am immensely proud of the work we accomplished and grateful for the experience. You can find more details about my contributions on [[YesHello|this page]].
 
 ### Feb - Nov 2022: Head of Programs at Nomads Giving Back & Nomads Skillshare
 
