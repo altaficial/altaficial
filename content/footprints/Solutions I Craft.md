@@ -1,6 +1,6 @@
 ---
 created: 2024-11-01 16:11
-updated: 2024-11-02 10:11
+updated: 2024-11-02 11:11
 date: 2024-03-12
 ---
 **I'm Alta, a designer, project manager, and advocate for ethical technology.** I help organizations and individuals create impactful online experiences that drive positive change. Whether you need a stunning website, a streamlined workflow, or a compelling campaign, I can help you achieve your goals.
@@ -57,5 +57,4 @@ While I'm contributing to [UN for AI](www.unforai.org), but I also dedicate my t
 If you need a skilled and adaptable temporary Chief of Staff or Personal Assistant to tackle your workload,  freeing up your time and energy to focus on what matters most. Message me [here](mailto:altaficial@proton.me) or [schedule](https://cal.com/altaficial/connect) a session with me. 
 
 # Want to collaborate and maximize our impact?
-
 I offer a time exchange program where you can trade 1 hour of your time for 2 hours of mine. I'm always open to new partnerships and opportunities to make a difference. Learn more about my [[Impact Exchange|Impact Exchange here]].
