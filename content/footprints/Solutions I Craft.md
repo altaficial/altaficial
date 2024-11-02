@@ -1,6 +1,6 @@
 ---
 created: 2024-11-01 16:11
-updated: 2024-11-02 01:11
+updated: 2024-11-02 10:11
 date: 2024-03-12
 ---
 **I'm Alta, a designer, project manager, and advocate for ethical technology.** I help organizations and individuals create impactful online experiences that drive positive change. Whether you need a stunning website, a streamlined workflow, or a compelling campaign, I can help you achieve your goals.
@@ -24,7 +24,7 @@ date: 2024-03-12
 # The Portfolio
 
 
-### Explore my portfolio: [[10 Creative/11 Altaficial/content/footprints/Body of Work|A Body Of Work Spanning Technology, Education, And Social Impact]] 
+Explore my portfolio: **[[10 Creative/11 Altaficial/content/footprints/Body of Work|A Body Of Work Spanning Technology, Education, And Social Impact]]** 
 
 
 # The Process
