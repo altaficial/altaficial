@@ -1,6 +1,6 @@
 ---
 created: 2024-07-17 17:10
-updated: 2024-11-02 00:11
+updated: 2024-11-02 21:11
 aliases: 
 title: "Alta's Curated Work Samples : A Body Of Work Spanning Technology, Education, And Social Impact"
 date: 2024-07-17
@@ -11,7 +11,7 @@ This curated collection of work samples, representing my body of work, demonstra
 
 # Strategy & Leadership
 
-## [[YesHello|Co-founding YesHello]]
+#### [[YesHello|Co-founding YesHello]]
 
 - **Situation:** Identified a need for streamlined communication tools for SMEs, particularly those struggling to manage customer interactions across various channels and lacking the resources for expensive, complex solutions.
 - **Task:** Co-founded YesHello to address this market gap by developing and launching an innovative, affordable, and user-friendly communication platform.
@@ -29,7 +29,7 @@ This curated collection of work samples, representing my body of work, demonstra
     - Reduction in churn rate to 6.01%
     - Acquisition by another tech company
 
-## Contributor for [UN for AI](https://unforai.org/)
+####  Contributor for [UN for AI](https://unforai.org/)
 
 - **Situation:** Recognized the global need for an organization dedicated to coordinating AI research, development, and the ethical distribution of AI-derived economic benefits.
 - **Task:** Contribute to the establishment of an Independent Global Collective Intelligence Organization.
@@ -37,7 +37,7 @@ This curated collection of work samples, representing my body of work, demonstra
 - **Result:** Generated significant interest in the UN for AI’s mission, achieving a 20% conversion rate for petition sign-ups within a focus group of philosophy-minded individuals. This initial success demonstrated the potential for broader public engagement and support for responsible AI governance.
 # Product/Program Management
 
-## Onboarding Transformation at YesHello
+#### Onboarding Transformation at YesHello
 
 - **Situation:** YesHello's initial onboarding process was lengthy, confusing, and resulted in low conversion rates from free trials to paid subscriptions. This hindered user adoption and revenue growth, as potential customers were abandoning the platform before experiencing its full value.
 - **Task:** Redesign the onboarding process to improve user experience, reduce friction, and increase conversions by creating a more intuitive and engaging experience for new users. This involved streamlining the process, clarifying value, and guiding users to success quickly.
@@ -50,7 +50,7 @@ This curated collection of work samples, representing my body of work, demonstra
 
 ![[footprints/images/usergrowthchart.png]]
 
-## [YesHello Knowledge Base](https://docs.yeshello.chat/)
+#### [YesHello Knowledge Base](https://docs.yeshello.chat/)
 
 - **Situation:** YesHello users needed easy access to support resources and information about the platform's features and functionality to maximize their success with the product and reduce reliance on the support team. A lack of easily accessible information could lead to frustration, increased support tickets, and potentially churn.
 - **Task:** Create and maintain a comprehensive, user-friendly, and easily searchable knowledge base to empower users to self-serve and find answers quickly. This would improve user satisfaction, reduce support costs, and enable users to get the most out of the platform.
@@ -62,7 +62,7 @@ This curated collection of work samples, representing my body of work, demonstra
 	- Implemented a tagging system to enable users to quickly find the information they needed.
 - **Result:** The knowledge base effectively empowered users to self-serve, leading to a measurable reduction in support requests, improved user satisfaction, and a more efficient support process. This freed up support team resources to focus on more complex issues and proactive customer success initiatives.
 
-## YesHello [Product Roadmap](https://yeshello.canny.io/) and [Changelog](https://yeshello.canny.io/changelog)
+#### YesHello [Product Roadmap](https://yeshello.canny.io/) and [Changelog](https://yeshello.canny.io/changelog)
 
 - **Situation:** As YesHello evolved, we needed a clear product vision and transparent communication with users about our development progress to maintain their trust, manage expectations, and encourage ongoing engagement with the platform. Without clear communication, users might feel uncertain about the direction of the product and become disengaged.
 - **Task:** Develop and maintain a product roadmap and changelog to improve transparency, gather user feedback, and ensure our product development aligned with user needs and business goals.
@@ -75,7 +75,7 @@ This curated collection of work samples, representing my body of work, demonstra
 ![[footprints/images/yeshellochangelog.png]]
 
 
-## Revamping the BlueDot Project Phase (Product Manager - Bluedot Impact Work Test)
+#### Revamping the BlueDot Project Phase (Product Manager - Bluedot Impact Work Test)
 
 - **Situation:** BlueDot's Project Phase was experiencing low student engagement and project submission rates. Only 30% of students were submitting projects, and of those, only 40% met the quality standards. Students reported feeling overwhelmed and unsupported during the transition from the Learning Phase to the Project Phase, struggling to translate their theoretical knowledge into practical application.  
 - **Task:** My task was to analyze the existing Project Phase, identify pain points in the student journey, and develop solutions to improve student engagement, project submission rates, and the overall quality of student projects.  
@@ -84,7 +84,7 @@ This curated collection of work samples, representing my body of work, demonstra
 
 ![[footprints/images/Product-Manager-Bluedot-Impact-Work-Test.pdf]]
 
-## Art Therapy Program for Refugees and Stateless Children
+#### Art Therapy Program for Refugees and Stateless Children
 
 - **Situation:** Recognized the profound emotional and psychological challenges faced by refugee and stateless children who have experienced trauma, displacement, and loss, impacting their well-being, development, and integration into new communities. These children often lack access to adequate mental health support and safe spaces for emotional expression.
 - **Task:** Develop and implement an art therapy program to provide a safe and supportive space for healing, self-expression, emotional processing, and building resilience. The program aimed to help children cope with trauma, express their emotions, and develop coping mechanisms through creative activities.
@@ -96,7 +96,7 @@ This curated collection of work samples, representing my body of work, demonstra
 ![[footprints/images/Art-Therapy-Activities.pdf]]
 
 
-## [[NomadsGivingBack!|Nomads SkillShare Program]]
+#### [[NomadsGivingBack!|Nomads SkillShare Program]]
 
 - **Situation:** The Nomads SkillShare program lacked a structured approach to course offerings and professional development, hindering its impact and reach. There was also a need to improve marketing to reach the right target audience to generate funding for scholarships.
 - **Task:** Lead the development and launch of a revitalized Nomads SkillShare program to enhance its structure, attract participants, and secure funding for scholarships.
@@ -111,7 +111,7 @@ This curated collection of work samples, representing my body of work, demonstra
 
 
 # Project Management
-## Transferring WhatsApp API to Official META WhatsApp API
+#### Transferring WhatsApp API to Official META WhatsApp API
 
 - **Situation:** YesHello relied on a third-party WhatsApp API, which posed potential risks and limitations in terms of functionality, compliance, and long-term stability. This reliance created a vulnerability in our system and hindered our ability to access the latest features and ensure optimal security for our users.
 - **Task:** Migrate YesHello's WhatsApp integration to the official META WhatsApp Business API to mitigate risks, improve reliability, and access advanced features. This migration was critical to enhance the platform's security, scalability, and user experience.
@@ -123,7 +123,7 @@ This curated collection of work samples, representing my body of work, demonstra
     - **Mitigated Risks:** Eliminated the dependence on a third-party API, reducing security vulnerabilities and ensuring compliance with META's terms of service.
     - **Improved Reliability:** Enhanced the stability and performance of the WhatsApp integration, providing a more seamless experience for users.
     - **Enabled Advanced Features:** Unlocked access to valuable features, such as the WhatsApp Green Checkmark (official business verification), message templates for standardized communication, and interactive buttons for more engaging user interactions.
-## **Developing New Products for YesHello Platform**
+#### Developing New Products for YesHello Platform
 
 - **Situation:** To enhance the functionality and value proposition of the YesHello platform, we needed to develop new product offerings that addressed evolving user needs and expanded our market reach. User feedback indicated a desire for more automation and control over their accounts.
 - **Task:** Lead the development and launch of two new add-ons for the YesHello platform:
@@ -137,7 +137,7 @@ This curated collection of work samples, representing my body of work, demonstra
 - **Result:** The successful launch of these two add-ons significantly enhanced the YesHello platform and delivered substantial value to users.
     - **Increased User Satisfaction:** The add-ons provided users with greater flexibility, powerful automation capabilities, and granular control over their usage, leading to increased satisfaction and engagement.
     - **Improved Business Performance:** The new features directly contributed to a 72% increase in the upsell rate and a 91% improvement in customer retention, demonstrating their value and impact on the business.
-## **Chatbot Malaysia**
+#### Chatbot Malaysia
 
 - **Situation:** Chatbot Malaysia served a diverse clientele with varying needs and requirements for chatbot solutions and social media management. Clients ranged from small businesses to large enterprises, each with unique goals and target audiences.
 - **Task:** Manage chatbot and social media projects for various brands, ensuring each client received a tailored solution that met their specific objectives and maximized their return on investment. This involved understanding their business needs, translating them into effective chatbot strategies, and managing the implementation and ongoing optimization.
@@ -149,7 +149,7 @@ This curated collection of work samples, representing my body of work, demonstra
 - **Result:** Successfully delivered customized chatbot solutions that improved customer engagement, streamlined customer support, and increased client satisfaction. This success is evidenced by the positive outcomes achieved for clients like [Dino Kelulut Honey](https://altaficial.notion.site/Dino-Kelulut-Honey-130ece9eec6180fcab0dde2f64a1eafd?pvs=4),  [Baked KL](https://altaficial.notion.site/Baked-KL-130ece9eec6180be8371d49135931864?pvs=4), and [E-Petani](https://altaficial.notion.site/E-Petani-Visibility-and-Lead-Generation-Campaign-Case-Study-130ece9eec618074bca3fa8125ace6d1?pvs=4).
 # Business Operations & System Design Optimization
 
-## Developing a Custom CRM for YesHello
+#### Developing a Custom CRM for YesHello
 
 - **Situation:** YesHello initially relied on an external CRM that was not seamlessly integrated with our platform and lacked the flexibility to meet our specific needs, hindering efficient customer management and data analysis. This reliance on an external tool created data silos, limited our ability to automate workflows, and hampered our ability to gain a holistic view of our customers.
 - **Task:** Develop a custom CRM system within the YesHello platform to improve customer relationship management, streamline workflows, and centralize customer data. This would empower our team to better serve customers, track interactions, and personalize their experience.
@@ -161,7 +161,7 @@ This curated collection of work samples, representing my body of work, demonstra
     - Collaborated closely with the development team throughout the process to ensure seamless integration with the YesHello platform and address any technical challenges.
     - Gathered user feedback throughout the development process through demos, user testing, and feedback sessions to ensure the CRM met the team's needs and preferences.
 - **Result:** The custom CRM significantly improved efficiency in managing customer interactions, tracking sales pipelines, and providing personalized support. This led to a 107% increase in the CSAT score, demonstrating a significant improvement in customer satisfaction and highlighting the CRM's positive impact on customer relationships.
-## Implementing a [Notion Workspace for YesHello](https://altaficial.notion.site/YesHello-126ece9eec6181e48893f814bf630886?pvs=4)
+#### Implementing a [Notion Workspace for YesHello](https://altaficial.notion.site/YesHello-126ece9eec6181e48893f814bf630886?pvs=4)
 
 - **Situation:** As YesHello grew, we needed a centralized and collaborative workspace to improve team communication, organization, and workflow efficiency. Our existing tools were fragmented and lacked the structure for optimal collaboration, leading to information silos and reduced productivity.
 - **Task:** Implement and optimize a Notion workspace for the YesHello team to centralize information, streamline workflows, and enhance communication. This would provide a unified platform for the team to collaborate, share knowledge, and manage projects effectively.
@@ -175,7 +175,7 @@ This curated collection of work samples, representing my body of work, demonstra
 
 ![[footprints/images/yeshellonotion.png]]
 
-## YesHello Operations & Billing
+#### YesHello Operations & Billing
 
 - **Situation:** As YesHello grew, we needed to optimize operational costs and ensure the company's financial sustainability while remaining competitive in the market. Our existing pricing model was not optimized for different customer segments and lacked the flexibility to accommodate various needs and budgets.
 - **Task:** Develop and implement a new pricing strategy to optimize revenue generation, improve customer satisfaction, and support the company's growth.
@@ -185,7 +185,7 @@ This curated collection of work samples, representing my body of work, demonstra
     - Based on this analysis, designed a tiered pricing structure with different feature sets to appeal to a wider range of clients, offering greater flexibility and choice.
     - Communicated the new pricing strategy clearly to existing and potential customers, highlighting the value and benefits of each pricing tier.
 - **Result:** The new pricing strategy optimized revenue generation and improved customer satisfaction by providing greater flexibility and choice. This resulted in a 61% increase in monthly recurring revenue, demonstrating the effectiveness of the new pricing model in attracting and retaining customers.
-## YesHello Subscription Management
+#### YesHello Subscription Management
 
 - **Situation:** YesHello needed to streamline subscription management, billing, and invoicing processes to improve efficiency, reduce errors, and enhance the customer experience. Our existing manual processes were time-consuming, prone to errors, and created friction for customers.
 - **Task:** Develop and implement efficient operational procedures for managing customer subscriptions, ensuring a smooth and accurate billing process.
@@ -198,7 +198,7 @@ This curated collection of work samples, representing my body of work, demonstra
     - A 20% reduction in time spent on billing tasks, freeing up valuable time for other priorities.
     - The elimination of billing errors, improving customer satisfaction and reducing the need for manual corrections.
     - An overall improvement in the customer experience, with a smoother and more reliable billing process.
-## Comprehensive Metrics Dashboard
+#### Comprehensive Metrics Dashboard
 
 - **Situation:** YesHello needed a way to track key performance indicators (KPIs) across different departments and monitor progress towards our business goals. Our existing reporting methods were manual, time-consuming, and lacked a holistic view, making it difficult to identify trends and areas for improvement.
 - **Task:** Develop a comprehensive metrics dashboard to provide a clear and accessible overview of our performance, enabling data-driven decision-making and better tracking of progress.
@@ -209,7 +209,7 @@ This curated collection of work samples, representing my body of work, demonstra
 - **Result:** The metrics dashboard provided valuable insights into YesHello's performance, enabling data-driven decision-making and improved tracking of our progress towards key objectives.
     - It helped the team to focus on which department or area to focus and improve on every month based on the metrics data.
     - For example, we identified areas for improvement in customer onboarding by tracking the conversion numbers from free trials to paid users, leading to targeted improvements that increased conversion rates.
-## YesHello File Management System
+#### YesHello File Management System
 
 - **Situation:** YesHello lacked a consistent and organized system for managing files, hindering collaboration, creating redundancy, and increasing the risk of data loss. This lack of structure made it difficult to find information, share files securely, and maintain version control.
 - **Task:** Create and implement a secure and efficient file management system to improve collaboration, ensure data security, and comply with data regulations.
@@ -225,7 +225,7 @@ This curated collection of work samples, representing my body of work, demonstra
 
 ![[footprints/images/yeshellofile.png]]
 
-## Illuminate Hostel
+#### Illuminate Hostel
 
 - **Situation:** The hostel lacked an optimized online presence, making it difficult for potential guests to find information, view photos, compare prices, and make bookings. This limited their visibility and potential to attract customers in a competitive hospitality market, especially as travelers increasingly rely on online resources to research and book accommodations.
 - **Task:** Set up and optimize the hostel's online presence to increase visibility, attract more bookings, and improve customer engagement. This involved creating a comprehensive and engaging online presence that showcased the hostel's unique features, amenities, and atmosphere.
@@ -233,7 +233,7 @@ This curated collection of work samples, representing my body of work, demonstra
 - **Result:** This resulted in increased online visibility, more bookings, and improved customer engagement.
 
 # User Experience (UX) & Design
-## Website Redesign at YesHello
+#### Website Redesign at YesHello
 
 - **Situation:** YesHello's existing website had low user engagement, was not effectively driving conversions, and did not reflect the brand's updated identity. It lacked visual appeal, had a confusing navigation structure, and suffered from slow loading times, all of which contributed to a poor user experience and hindered business growth.
 - **Task:** Lead the redesign of the YesHello website to improve user experience, modernize the visual design, and increase conversion rates. This involved a complete overhaul of the website's structure, content, and aesthetics to align with the brand's evolved identity and user expectations.
@@ -248,7 +248,7 @@ This curated collection of work samples, representing my body of work, demonstra
     - **Improved Conversion Rates:** The clear calls to action, optimized content, and streamlined user flow contributed to a 67% increase in conversion rates, demonstrating the effectiveness of the redesign in driving desired user actions.
     - **Enhanced Brand Image:** The updated visual design and improved user experience better reflected YesHello's brand identity, creating a more professional and credible online presence.
     - **Improved Performance:** The website's technical optimization resulted in an 87% improvement in page load speed, providing users with a faster and more seamless browsing experience.
-## UNforAI Website Design
+#### UNforAI Website Design
 
 - **Situation:** UNforAI needed a professional and engaging website to communicate its mission, values, and initiatives clearly and effectively to a global audience. The website needed to serve as a central hub for information, attract support, and encourage collaboration among stakeholders.
 - **Task:** Design and develop the UNforAI website to establish a strong online presence, promote the organization's mission, and facilitate engagement with its target audience.
@@ -262,13 +262,13 @@ This curated collection of work samples, representing my body of work, demonstra
     - The website served as a valuable resource for information about AI governance, research, and policy.
     - It facilitated communication and collaboration among stakeholders, including researchers, policymakers, and the public.
 
-## Bunker in Paradise Website Design
+#### Bunker in Paradise Website Design
 - **Situation:** Bunker in Paradise needed a website to showcase its unique offerings, build trust, and attract customers interested in emergency preparedness and sustainable living.
 - **Task:** Design and develop a website to effectively communicate the company's mission, showcase its products and services, and generate leads.
 - **Action:** I collaborated with stakeholders, conducted competitor analysis, created wireframes and mockups, and developed a user-friendly, visually appealing website optimized for search engines.
 - **Result:** The website successfully communicated the company's mission, showcased its offerings, and generated leads, resulting in increased traffic, inquiries, brand awareness, and customer engagement.
 
-## [Sustainability apps](https://www.figma.com/proto/ca4ItFEbOO5m9WD54QTjRY/Sustainable-Tourism-App?page-id=0:1&node-id=186-131&viewport=556,287,0.21&t=3pNDPD8XGlqAGe3L-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=103:15)
+#### [Sustainability apps](https://www.figma.com/proto/ca4ItFEbOO5m9WD54QTjRY/Sustainable-Tourism-App?page-id=0:1&node-id=186-131&viewport=556,287,0.21&t=3pNDPD8XGlqAGe3L-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=103:15)
 - **Situation:** The ASEAN Blue Innovation Challenge presented an opportunity to showcase my skills in UX/UI design and contribute to solutions for environmental sustainability. I was passionate about developing innovative app concepts that could address pressing challenges related to ocean conservation and sustainable development.
 - **Task:** Design and develop a mobile app concept for the ASEAN Blue Innovation Challenge, focusing on user experience, functionality, and visual appeal.
 - **Action:**
@@ -286,14 +286,14 @@ This curated collection of work samples, representing my body of work, demonstra
 
 # Marketing & Growth
 
-## YesHello Marketing Campaigns
+#### YesHello Marketing Campaigns
 - **Situation:** YesHello needed to acquire new users and retain existing ones to drive growth in the competitive market for SME communication tools.   
 - **Task:** Plan and execute impactful marketing campaigns to reach target audiences, generate leads, and drive conversions.
 - **Action:** I developed and executed a comprehensive marketing strategy across multiple channels (email, social media, content, partnerships, paid advertising). This included creating compelling marketing materials, launching multi-channel campaigns, implementing user retention strategies (personalized onboarding, loyalty programs), and utilizing promotions and referral programs. I continuously monitored campaign performance, analyzed key metrics, and optimized for results.
 - **Result:** The campaigns significantly boosted user retention, reduced churn, increased customer lifetime value, and generated a substantial increase in new sign-ups, expanding YesHello's user base and market reach. This resulted in higher monthly recurring revenue (MRR) and annual recurring revenue (ARR).
 
 # Communication & Content
-## YesHello Case Studies
+#### YesHello Case Studies
 - **Situation:** YesHello needed to showcase the positive impact of its platform on client businesses to build credibility and attract new customers.
 - **Task:** Conduct client interviews and write compelling case studies highlighting the benefits and results achieved by using YesHello.
 - **Action:** I identified and interviewed a diverse range of successful clients, gathering data on their experiences. I then crafted engaging case studies, using storytelling techniques and incorporating data and visuals, to showcase how YesHello helped them improve communication, streamline workflows, and achieve business goals.
@@ -304,7 +304,7 @@ This curated collection of work samples, representing my body of work, demonstra
 - [SOLS Energy delivers excellent service while working remotely.](https://altaficial.notion.site/SOLS-Energy-delivers-excellent-service-while-working-remotely-126ece9eec618145ad48e5f6dcacc1d9?pvs=4)
 - [Womentum overcomes critical WhatsApp Messages management challenges with YesHello.](https://altaficial.notion.site/Womentum-overcomes-critical-WhatsApp-Messages-management-challenges-with-YesHello-126ece9eec618111b531f32f91bb5b06?pvs=4)
 - [How YesHello Helped English Matters Communicate with Parents During School Reopening.](https://altaficial.notion.site/How-YesHello-Helped-English-Matters-Communicate-with-Parents-During-School-Reopening-126ece9eec61817faa36c131aec24f1c?pvs=4)
-## [YesHello Content Calendar](https://altaficial.notion.site/126ece9eec618131b89dd32e023a3527?v=126ece9eec618113ac0e000c3df88ab5&pvs=4)
+#### [YesHello Content Calendar](https://altaficial.notion.site/126ece9eec618131b89dd32e023a3527?v=126ece9eec618113ac0e000c3df88ab5&pvs=4)
 
 - **Situation:** YesHello needed a consistent and organized approach to content creation to effectively engage our target audience, maintain a strong brand presence, and support marketing campaigns.
 - **Task:** Develop and implement a content calendar to plan, schedule, and track the creation and distribution of various content types (blog posts, social media updates, etc.).
