@@ -8,7 +8,7 @@ I am a passionate advocate for ethical technology, a lifelong learner, and a cre
 
 Currently, I'm focusing my passion and experience on addressing existential risks, particularly the ethical implications of AI, data science, and climate change. I believe our choices shape our future, and I'm dedicated to using my skills to build a brighter, more equitable, and sustainable world.
 
-[Download My Resume](https://drive.google.com/file/d/1y3ODqIs0iEJux_Yhpwv9XnXTnPSjsjjU/view?usp=sharing) • Email • LinkedIn • Portfolio •  Website 
+[Download My Resume](https://drive.google.com/file/d/1y3ODqIs0iEJux_Yhpwv9XnXTnPSjsjjU/view?usp=sharing) • [Email](mailto:altaficial@proton.me) • [LinkedIn](https://www.linkedin.com/in/altaficial/) • [Portfolio](https://craft.altaficial.com/footprints/Body-of-Work) •  [Website](https://www.altaficial.com/) 
 
 ### October 2024 - Present: Community Liaison & Web Developer at [Collective Action of Existential Safety (CAES)](https://existentialsafety.org)
 
