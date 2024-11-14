@@ -9,9 +9,13 @@ I am a passionate advocate for ethical technology, a lifelong learner, and a cre
 Currently, I'm focusing my passion and experience on addressing existential risks, particularly the ethical implications of AI, data science, and climate change. I believe our choices shape our future, and I'm dedicated to using my skills to build a brighter, more equitable, and sustainable world.
 
 [Download My Resume](https://drive.google.com/file/d/1ceqUlosfv0jsNER6sbo8OASTF31E06fh/view?usp=sharing) • [Linkedin](https://www.linkedin.com/in/altaficial/ ) • [Main Website](https://altaficial.com)
+### October 2024 - Present: Community Liaison & Web Developer at [Collective Action of Existential Safety (CAES)](https://existentialsafety.org)
+
+As Community Liaison and Web Developer at [CAES](https://existentialsafety.org), I designed, built, and maintained the CAES website, ensuring clear communication of the organization's mission and providing accessible resources on existential risk mitigation. I also collaborated with the leadership team on fundraising campaigns and cultivated partnerships to expand CAES's reach and impact.
+
 ### July 2024 - Present: Contributor at [UN for AI](https://unforai.org/)
 
-Advised and contributed to the development of UNforAI, championing the ethical and responsible use of artificial intelligence. Collaborated on planning, website design, and petition campaigns, creating the website design from concept to completion to effectively communicate UNforAI's mission and vision. My efforts contributed to increased awareness and support for the project.
+Advised and contributed to the development of UN for AI, championing the ethical and responsible use of artificial intelligence. Collaborated on planning, website design, and petition campaigns, creating the website design from concept to completion to effectively communicate UNforAI's mission and vision. My efforts contributed to increased awareness and support for the project.
 
 ### April 2024: Expanding My Horizons for Responsible Innovation
 
@@ -26,9 +30,9 @@ The vast potential of AI and data science is thrilling, but it's clear that inno
 
 ### Feb 2020 - Sept 2023: Co-founder at YesHello
 
-In September 2023, I made the decision to leave YesHello to pursue new challenges and opportunities. I am immensely proud of the work we accomplished and grateful for the experience. You can find more details about my contributions on [[YesHello|this page]].
+Co-founded and led [[YesHello|YesHello]], a tech startup focused on developing a communication platform for businesses. You can find more details about my contributions on [[YesHello|this page]]. Successfully managed a diverse team, oversaw product development and launch, and implemented effective marketing strategies that resulted in significant user growth and a successful acquisition in 2023.
 
-### Feb - Nov 2022: Head of Programs at Nomads Giving Back & Nomads Skillshare
+### Feb - Nov 2022: Head of Programs at [[NomadsGivingBack!|Nomads Giving Back & Nomads Skillshare]]
 
 Driven by my passion for education, I volunteered to lead these programs. My work involved revamping the user experience, managing courses, and creating inspiring case studies of students whose lives were transformed through the scholarship program.
 
