@@ -52,7 +52,7 @@ Here's a detailed breakdown of my process for each service: [[The Process for My
 - **Transparent Pricing:** I charge an hourly rate for my services, ensuring you only pay for the time I spend on your project.
 
 
-While I'm contributing to [UN for AI](www.unforai.org), but I also dedicate my time to freelance projects that align with my values. 
+While contributing to [UN for AI](https://unforai.org) and [Existential Safety](https://existentialsafety.org), I'm actively seeking new opportunities in responsible innovation and ethical technology where I can leverage my skills in product/program management, design, communication, and project management to drive positive change and support the growth of impact-driven organizations.
 
 If you need a skilled and adaptable temporary Chief of Staff or Personal Assistant to tackle your workload,  freeing up your time and energy to focus on what matters most. Message me [here](mailto:altaficial@proton.me) or [schedule](https://cal.com/altaficial/connect) a session with me. 
 
