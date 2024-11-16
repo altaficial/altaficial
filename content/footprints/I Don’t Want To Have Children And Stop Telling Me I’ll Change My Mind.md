@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28 16:06
-updated: 2024-07-08 17:07
+updated: 2024-11-16 22:11
 title: I don’t want to have children, and stop telling me I’ll change my mind :D
 date: 2022-09-09
 tags:
